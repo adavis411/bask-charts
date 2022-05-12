@@ -1,1 +1,3 @@
 NOAA-raster/
+*.gpkg-shm
+*.gpkg-wal
