@@ -54,18 +54,28 @@ The map item in the layout is automatically resized to reflect the orientation o
 
 There are two sets of labels and scalebars whose opacity is set to 0% or 100% to hide/show them dependent on the orientation.
 
-### Merging updated datapoints
+### Creating a fresh datapoints layer
 
-The current procedure is as follows:
+**NOTE: This discards all existing label positions and starts over.**
 
-- Import a new CSV file as a read-only vector layer. The attributes must be named identically to the existing datapoints layer, which may require editing the CSV somehow.
-- Use the **Join attributes by field** processing plugin. Input layer 1 should be the existing datapoints layer and input layer 2 should be the CSV layer. Both join fields should be given as `sid`.
-- The **Layer 2 fields to copy** fields should be `label_x` and `label_y`.
-- Create a temporary layer as output
-- After running the plugin check the contents of the temporary layer to be sure that it includes updates from the CSV and retains label positions.
-- Export the temporary layer as GeoJSON.
-- Close QGIS
-- rename the old datapoints GeoJSON to a backup name, and rename the newly ecported datapoints GeoJSON to `datapoint-labels.geojson`.
-- Re-open QGIS
+Download a new `chart_data.csv` file from the Trip Planner. Close the QGIS project and using a command shell in the `TripPlanner/` directory, invoke the `importcsv.py` program to convert a new CSV to `datapoint-labels.geojson`:
+
+```
+python3 importcsv.py chart_data.csv ../datapoint-labels.geojson
+```
+
+Reopen the project.
 
 
+### Merging an updated datapoints layer with existing label positions
+
+This procedure creates a new datapoints layer based on an imported CSV but retaining any existing label positions that are found in the old datapoints layer.
+
+Download a new `chart_data.csv` file from the Trip Planner. Close the QGIS project and using a command shell in the `TripPlanner/` directory, create a copy of the existing datapoints and then invoke the `importcsv.py` program to merge their label positions with the new CSV:
+
+```
+cp ../datapoint-labels.geojson datapoint-labels-backup.geojson
+python3 importcsv.py chart_data.csv ../datapoint-labels.geojson datapoint-labels-backup.geojson
+```
+
+Reopen the project.
