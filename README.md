@@ -57,6 +57,21 @@ The map item in the layout is automatically resized to reflect the orientation o
 
 There are two sets of labels and scalebars whose opacity is set to 0% or 100% to hide/show them dependent on the orientation.
 
+### Merging an updated datapoints layer with existing label positions
+
+This procedure creates a new datapoints GeoPackage file based on an imported CSV but retaining any existing label positions that are found in the old datapoints layer.
+
+In your local Python installation the `geopandas` package needs to be installed using `pip3` in order to support GIS operations and I/O.
+
+Download a new `chart_data.csv` file from the Trip Planner. Close the QGIS project and using a command shell in the `TripPlanner/` directory, create a copy of the existing datapoints and then invoke the `importcsv.py` program to merge their label positions with the new CSV:
+
+```
+cp ../datapoint-labels.gpkg datapoint-labels-backup.gpkg
+python3 importcsv.py chart_data.csv ../datapoint-labels.gpkg datapoint-labels-backup.gpkg
+```
+
+Reopen the project.
+
 ### Creating a fresh datapoints layer
 
 **NOTE: This discards all existing label positions and starts over.**
@@ -69,16 +84,3 @@ python3 importcsv.py chart_data.csv ../datapoint-labels.gpkg
 
 Reopen the project.
 
-
-### Merging an updated datapoints layer with existing label positions
-
-This procedure creates a new datapoints GeoPackage file based on an imported CSV but retaining any existing label positions that are found in the old datapoints layer.
-
-Download a new `chart_data.csv` file from the Trip Planner. Close the QGIS project and using a command shell in the `TripPlanner/` directory, create a copy of the existing datapoints and then invoke the `importcsv.py` program to merge their label positions with the new CSV:
-
-```
-cp ../datapoint-labels.gpkg datapoint-labels-backup.gpkg
-python3 importcsv.py chart_data.csv ../datapoint-labels.gpkg datapoint-labels-backup.gpkg
-```
-
-Reopen the project.
