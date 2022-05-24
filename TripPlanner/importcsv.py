@@ -38,4 +38,4 @@ else:
     gdfout = gdfin.join(gdflabelxy, on='sid', how='left')
 
 # write the output file
-gdfout.to_file(sys.argv[2],driver='GeoJSON',crs='EPSG:4326')
+gdfout.to_file(sys.argv[2],crs='EPSG:4326')
