@@ -1,0 +1,1300 @@
+latitude,longitude,sid,title,chart_title,type
+37.8106,-122.502,c_1,"San Francisco Bay entrance (outside) (depth 19 ft), California Current",,current
+48.1000,-122.6833,c_2,"0.3 mile northeast of, Marrowstone Point, Washington Current",,current
+38.1188,-122.0533,c_3,"0.5 nmi east of entrance (depth 4 ft), Suisun Slough, Suisun Bay, California Current",,current
+38.1378,-122.0813,c_4,"1 mi inside entrance (depth 15 ft), Suisun Slough, Suisun Bay, California Current",,current
+38.1472,-122.0563,c_5,"1 mi inside west entrance (depth 22 ft), Montezuma Slough, Suisun Bay, California Current",,current
+32.6828,-117.1428,c_6,"28th St. Pier (San Diego), 0.35 nmi SW (depth 14 ft), San Diego Bay, California Current",,current
+32.6747,-117.1495,c_7,"28th St. Pier (San Diego), 0.92 nmi SW (depth 7 ft), San Diego Bay, California Current",,current
+48.1500,-122.7,c_8,"Admiralty Head, 0.5 mile west of, Washington Current",,current
+48.3967,-122.5867,t_1,"Ala Spit, Washington",,tide
+48.3967,-122.587,t_2,"Ala Spit, Whidbey Island, Washington",,tide
+37.5950,-122.145,t_3,"Alameda Creek, San Francisco Bay, California",,tide
+37.7615,-122.2239,c_9,"Alameda Estuary, southeast end (depth 2 ft), San Francisco Bay, California Current",,current
+37.7933,-122.315,t_4,"Alameda Naval Air Station fuel pier, San Francisco Bay, California",,tide
+37.7333,-122.2666,c_10,"Alameda Radar Tower, .9 SSW of, South San Francisco Bay, California Current",,current
+37.7455,-122.283,c_11,"Alameda Radar Tower, 0.9 nmi SSW of (depth 4 ft), San Francisco Bay, California Current",,current
+37.7717,-122.3,t_5,"Alameda, San Francisco Bay, California",,tide
+39.2167,-123.7666,t_6,"Albion, California",,tide
+37.8267,-122.4167,c_12,"Alcatraz (North Point), San Francisco Bay, California Current",,current
+37.8167,-122.4,c_13,"Alcatraz Island .8 mi E, San Francisco Bay, California Current",,current
+37.8167,-122.4166,c_14,"Alcatraz Island S, San Francisco Bay, California Current",,current
+37.8333,-122.4333,c_15,"Alcatraz Island W, San Francisco Bay, California Current",,current
+37.8278,-122.4303,c_16,"Alcatraz Island, 0.2 mi west of, San Francisco Bay, California Current",,current
+37.8351,-122.4201,c_17,"Alcatraz Island, 0.5 mi north of (depth 6 ft), San Francisco Bay, California Current",,current
+37.8333,-122.4166,c_18,"Alcatraz Island, 5 mi N, San Francisco Bay, California Current",,current
+37.8267,-122.417,t_7,"Alcatraz Island, San Francisco Bay, California",,tide
+37.8183,-122.422,c_19,"Alcatraz Island, south of, San Francisco Bay, California Current",,current
+37.8143,-122.432,c_20,"Alcatraz Island, southwest of (depth 2 ft), San Francisco Bay, California Current",,current
+48.7578,-122.9803,c_21,"Alden Point, Patos Island, 2 mi S of, Rosario Strait, Washington Current",,current
+48.4250,-122.853,t_8,"Aleck Bay, Lopez Island, Washington",,tide
+48.4716,-122.6998,c_22,"Allan Pass (depth 11 ft), Rosario Strait, Washington Current",,current
+48.5183,-122.62,t_9,"Anacortes, Guemes Channel, Washington",,tide
+37.8600,-122.443,t_10,"Angel Island (west side), San Francisco Bay, California",,tide
+37.8500,-122.4,c_23,"Angel Island .8 mi E, San Francisco Bay, California Current",,current
+37.8633,-122.4017,c_24,"Angel Island, 0.75 mi east of, San Francisco Bay, California Current",,current
+37.8633,-122.42,t_11,"Angel Island, East Garrison, San Francisco Bay, California",,tide
+37.8633,-122.4133,c_25,"Angel Island, off Quarry Point, San Francisco Bay, California Current",,current
+48.1770,-123.5269,c_26,"Angeles Pt., 2 mi NNE of (depth 12 ft), Strait of Juan de Fuca, Washington Current",,current
+37.1083,-122.338,t_12,"Ano Nuevo Island, California",,tide
+38.0239,-121.8226,c_27,"Antioch Point (depth 9 ft), San Joaquin River, California Current",,current
+38.0333,-121.8167,c_28,"Antioch Point, 0.3 mi east of, San Joaquin River, California Current",,current
+38.0333,-121.8166,c_29,"Antioch Pt .3 mi E, San Joaquin River, California Current",,current
+38.0270,-121.7531,c_30,"Antioch, Route 160 bridge (depth 7 ft), San Joaquin River, California Current",,current
+38.0200,-121.815,t_13,"Antioch, San Joaquin River, California",,tide
+40.8500,-124.117,t_14,"Arcata Wharf, Humboldt Bay, California",,tide
+38.9146,-123.7111,t_15,"Arena Cove, California",,tide
+48.5350,-122.797,t_16,"Armitage Island, Thatcher Pass, Washington",,tide
+38.0388,-122.1337,c_31,"Army Pt. Pier Lt. 0.2 nmi SE of (depth 21 ft), Carquinez Strait, California Current",,current
+46.1867,-123.86,t_17,"Astoria (Port Docks), Oregon",,tide
+46.1717,-123.8416,t_18,"Astoria (Youngs Bay), Columbia River, Oregon",,tide
+46.1717,-123.842,t_19,"Astoria (Youngs Bay), Oregon",,tide
+33.3450,-118.325,t_20,"Avalon, Santa Catalina Island, California",,tide
+38.0517,-122.0903,c_32,"Avon Pier, 0.15 nmi north of (depth 30 ft), Suisun Bay, California Current",,current
+46.2620,-123.998,c_33,"Baker Bay entrance, E of Sand Island Tower (depth 23 ft), Oregon Current",,current
+37.7978,-122.4885,c_34,"Baker Beach (South Bay), 0.3 nmi NW of (depth 31 ft), California Current",,current
+33.6000,-117.9,t_21,"Balboa Pier, Newport Beach, California",,tide
+32.6958,-117.2325,c_35,"Ballast Point, 0.55 nmi north of (depth 14 ft), San Diego Bay, California Current",,current
+32.6833,-117.2333,c_36,"Ballast Point, 100 yards north of, San Diego Bay, California Current",,current
+32.6867,-117.233,t_22,"Ballast Point, California",,tide
+32.6845,-117.2322,c_37,"Ballast Point, south of (depth 5 ft), San Diego Bay, California Current",,current
+43.1200,-124.413,t_23,"Bandon, Coquille River, Oregon",,tide
+44.6167,-124.0833,t_24,"Bar at entrance, Yaquina Bay and River, Oregon",,tide
+48.6858,-122.7888,c_38,"Barnes Island, 0.8 mi southwest of, Rosario Strait, Washington Current",,current
+48.6833,-122.7667,c_39,"Barnes Island, 0.8 mile SW of, Washington Current",,current
+45.5683,-123.943,t_25,"Barview, Tillamook Bay, Oregon",,tide
+37.8009,-122.3739,c_40,"Bay Bridge, Pier D (depth 9 ft), San Francisco Bay, California Current",,current
+37.7975,-122.3739,c_41,"Bay Bridge, Span B-C (depth 11 ft), San Francisco Bay, California Current",,current
+46.6233,-123.945,t_26,"Bay Center, Palix River, Willapa Bay, Washington",,tide
+45.5167,-123.9,t_27,"Bay City, Tillamook Bay, Oregon",,tide
+37.5450,-122.222,t_28,"Bay Slough, east end, San Francisco Bay, California",,tide
+37.5517,-122.243,t_29,"Bay Slough, west end, San Francisco Bay, California",,tide
+34.0083,-120.047,t_30,"Bechers Bay, Santa Rosa Island, California",,tide
+48.7333,-123.2333,t_31,"Bedwell Harbour, British Columbia",,tide
+48.4968,-122.7308,c_42,"Belle Rock Light, east of (depth 23 ft), Rosario Strait, Washington Current",,current
+48.5396,-122.6834,c_43,"Bellingham Channel South (depth 19 ft), Rosario Strait, Washington Current",,current
+48.5928,-122.6577,c_44,"Bellingham Channel north entrance (depth 27 ft), Rosario Strait, Washington Current",,current
+48.5585,-122.6618,c_45,"Bellingham Channel, off Cypress Head Light (depth 31 ft), Washington Current",,current
+48.5603,-122.6637,c_46,"Bellingham Channel, off Cypress I. Light, Washington Current",,current
+48.5500,-122.65,c_47,"Bellingham Channel, off Cypress Island, Light of, Washington Current",,current
+48.7450,-122.495,t_32,"Bellingham, Bellingham Bay, Washington",,tide
+48.7500,-122.5,t_33,"Bellingham, Washington",,tide
+38.0346,-122.1252,c_48,"Benicia Bridge (depth 15 ft), Suisun Bay, California Current",,current
+38.0433,-122.13,t_34,"Benicia, California",,tide
+37.8500,-122.3,c_49,"Berkeley Yacht Harbor .9 mi S, San Francisco Bay, California Current",,current
+37.8522,-122.3112,c_50,"Berkeley Yacht Harbor, California Current",,current
+37.8650,-122.307,t_36,"Berkeley, San Francisco Bay, California",,tide
+38.0450,-121.42,t_37,"Bishop Cut, Disappointment Slough, San Joaquin River, California",,tide
+37.9947,-121.419,t_38,"Blackslough Landing, San Joaquin River, California",,tide
+49.0000,-122.7667,t_39,"Blaine, Semiahmoo Bay, Washington",,tide
+38.1900,-122.917,t_40,"Blakes Landing, Tomales Bay, California",,tide
+37.8833,-122.4333,c_51,"Bluff Point .1 mi E, San Francisco Bay, California Current",,current
+37.8833,-122.435,c_52,"Bluff Point, 0.1 mi east of (depth 8 ft), San Francisco Bay, California Current",,current
+37.8872,-122.413,c_53,"Bluff Point, 1.15 nmi east of (depth 21 ft), San Francisco Bay, California Current",,current
+48.8167,-123.1833,c_54,"Boat Passage, British Columbia Current",,current
+38.3083,-123.055,t_41,"Bodega Harbor entrance, California",,tide
+37.9078,-122.6786,t_42,"Bolinas, Bolinas Lagoon, California",,tide
+37.8917,-121.488,t_43,"Borden Highway Bridge, Middle River, San Joaquin River, California",,tide
+37.8833,-121.577,t_44,"Borden Highway Bridge, Old River, San Joaquin River, California",,tide
+37.9367,-121.3333,t_45,"Borden Highway Bridge, San Joaquin River, California",,tide
+48.4150,-122.6517,t_46,"Bowman Bay, Fidalgo Island, Washington",,tide
+38.1833,-121.9233,t_47,"Bradmoor Island, Nurse Slough, Suisun Bay, California",,tide
+37.8667,-121.3166,c_55,"Brandt Bridge, San Joaquin River, California Current",,current
+38.2100,-122.307,t_48,"Brazos Drawbridge, Napa River, California",,tide
+38.2100,-122.3066,t_49,"Brazos Drawbridge, Napa River, Carquinez Strait, California",,tide
+45.6700,-123.925,t_50,"Brighton, Nehalem River, Oregon",,tide
+42.0433,-124.285,t_51,"Brookings, Chetco Cove, Oregon",,tide
+37.7852,-122.2605,c_56,"Brooklyn Basin (depth 5 ft), San Francisco Bay, California Current",,current
+40.7783,-124.197,t_52,"Bucksport, Humboldt Bay, California",,tide
+48.4600,-122.695,t_53,"Burrows Bay (Allan Island), Washington",,tide
+48.4628,-122.6828,c_57,"Burrows Bay, 0.5 mi east of Allan I, Rosario Strait, Washington Current",,current
+48.4667,-122.7,t_54,"Burrows Bay, Allan Island, Washington",,tide
+48.4717,-122.6997,c_58,"Burrows I.-Allan I., Passage between, Washington Current",,current
+48.4833,-122.7333,c_59,"Burrows Island Light, 0.8 miles WNW of, Washington Current",,current
+48.4895,-122.6867,c_60,"Burrows Pass (depth 15 ft), Rosario Strait, Washington Current",,current
+33.7067,-118.273,t_55,"Cabrillo Beach, California",,tide
+37.4667,-122.067,t_56,"Calaveras Point, west of, San Francisco Bay, California",,tide
+48.1667,-124.7333,t_57,"Cape Alava, Washington",,tide
+42.8333,-124.5833,c_61,"Cape Blanco, Oregon Current",,current
+46.2810,-124.0463,t_58,"Cape Disappointment, Washington",,tide
+40.4333,-124.4166,t_59,"Cape Mendocino, California",,tide
+42.3333,-124.4333,c_62,"Cape Sebastian, Oregon Current",,current
+39.7333,-123.8333,c_63,"Cape Vizcaino, California Current",,current
+36.5200,-121.94,t_60,"Carmel Cove, Carmel Bay, California",,tide
+38.0624,-122.2275,c_64,"Carquinez Bridge, I-80 (depth 20 ft), Carquinez Strait, California Current",,current
+38.0614,-122.2182,c_65,"Carquinez Strait (depth 12 ft), California Current",,current
+45.0479,-124.0073,t_61,"Cascade Head, Salmon River, Oregon",,tide
+33.4317,-118.5033,t_62,"Catalina Harbor, California",,tide
+33.4317,-118.503,t_63,"Catalina Harbor, Santa Catalina Island, California",,tide
+48.4167,-122.95,c_66,"Cattle Point, 1.2 mile SE of, Washington Current",,current
+48.4338,-122.947,c_67,"Cattle Point, 1.2 miles southeast of, Washington Current",,current
+48.4344,-122.9466,c_68,"Cattle Point, 1.2 nmi SE of (depth 39 ft), San Juan Channel, Washington Current",,current
+48.4000,-123,c_69,"Cattle Point, 2.8 mi SSW of, San Juan Channel, Washington Current",,current
+48.3840,-123.0157,c_70,"Cattle Point, 4.6 nmi SW of (depth 55 ft), San Juan Channel, Washington Current",,current
+48.3833,-123.0167,c_71,"Cattle Point, 5 miles SSW of, Washington Current",,current
+38.0500,-121.8666,c_72,"Chain Island .7 mi SW, Sacramento River, California Current",,current
+46.9333,-124.1,c_73,"Channel, 1.5 mi north of Westport, Grays Harbor, Washington Current",,current
+46.9333,-124.0833,c_74,"Channel, 2.1 mi NNE of Westport, Grays Harbor, Washington Current",,current
+48.4500,-122.9,t_64,"Charles Island, Washington",,tide
+43.3450,-124.322,t_65,"Charleston, Coos Bay, Oregon",,tide
+43.3450,-124.3217,t_66,"Charleston, Oregon",,tide
+48.8627,-122.761,c_75,"Cherry Point (depth 47 ft), Rosario Strait, Washington Current",,current
+48.8338,-122.7279,c_76,"Cherry Point, 1.8 nmi southeast of (depth 8 ft), Rosario Strait, Washington Current",,current
+48.8633,-122.758,t_67,"Cherry Point, Strait of Georgia, Washington",,tide
+48.8633,-122.7583,t_68,"Cherry Point, Washington",,tide
+37.9230,-122.4096,t_69,"Chevron Oil Company Pier, Richmond, San Francisco Bay, California",,tide
+44.8800,-123.9636,t_70,"Chinook Bend, Siletz River, Oregon",,tide
+46.2422,-123.9642,c_77,"Chinook Point, WSW of (depth 14 ft), Oregon Current",,current
+46.2717,-123.9483,t_71,"Chinook, Baker Bay, Columbia River, Washington",,tide
+46.2717,-123.948,t_72,"Chinook, Baker Bay, Washington",,tide
+48.6667,-122.5,t_73,"Chuckanut Bay, Bellingham Bay, Washington",,tide
+48.7333,-122.7667,c_78,"Clark Island, 1.6 mile North of, Washington Current",,current
+48.7313,-122.7733,c_79,"Clark Island, 1.6 miles north of, Washington Current",,current
+48.7313,-122.7734,c_80,"Clark Island, 1.6 nmi north of (depth 29 ft), Rosario Strait, Washington Current",,current
+46.2462,-123.9942,c_81,"Clatsop Spit, NNE of (depth 15 ft), Oregon Current",,current
+40.6372,-124.2822,t_74,"Cockrobin Island Bridge, Eel River, San Francisco, California",,tide
+38.0733,-121.848,t_75,"Collinsville, Sacramento River, California",,tide
+46.2733,-124.072,t_76,"Columbia River entrance (north jetty), Washington",,tide
+48.4000,-122.8167,c_82,"Colville Island, 1 mi SSE of, Rosario Strait, Washington Current",,current
+48.4167,-122.7833,c_83,"Colville Island, 1.4 miles east of, Washington Current",,current
+43.3550,-124.3412,c_84,"Coos Bay entrance, Oregon Current",,current
+43.3800,-124.215,t_77,"Coos Bay, Oregon",,tide
+43.1217,-124.4197,c_85,"Coquille River entrance, Oregon Current",,current
+37.5083,-122.21,t_78,"Corkscrew Slough, San Francisco Bay, California",,tide
+48.4017,-122.623,t_79,"Cornet Bay, Deception Pass, Washington",,tide
+32.6980,-117.1638,c_86,"Coronado, off northeast end (depth 14 ft), San Diego Bay, California Current",,current
+37.9433,-122.513,t_80,"Corte Madera Creek, San Francisco Bay, California",,tide
+48.2233,-122.69,t_81,"Coupeville, Penn Cove, Whidbey Island, Washington",,tide
+37.4650,-122.023,t_82,"Coyote Creek, Alviso Slough, San Francisco Bay, California",,tide
+37.4467,-121.9633,t_83,"Coyote Creek, Tributary #1, San Francisco Bay, California",,tide
+37.4467,-121.963,t_84,"Coyote Creek, Tributary No. 1, San Francisco Bay, California",,tide
+37.5633,-122.128,t_85,"Coyote Hills Slough entrance, San Francisco Bay, California",,tide
+37.5917,-122.313,t_86,"Coyote Point Marina, San Francisco Bay, California",,tide
+37.6255,-122.2961,c_87,"Coyote Point, 2.3 nmi NNE of (depth 3 ft), San Francisco Bay, California Current",,current
+48.5833,-123,c_88,"Crane Island, Wasp Passage, South of, Washington Current",,current
+48.5895,-122.9987,c_89,"Crane Island, south of, Wasp Passage, Washington Current",,current
+48.1617,-123.725,t_87,"Crescent Bay, Strait of Juan de Fuca, Washington",,tide
+48.1667,-123.7333,t_88,"Crescent Bay, Washington",,tide
+41.7450,-124.183,t_89,"Crescent City, California",,tide
+41.7450,-124.1833,t_90,"Crescent City, California (2) (expired 1989-12-31)",,tide
+38.0583,-122.223,t_91,"Crockett, Carquinez Strait, California",,tide
+32.7800,-117.235,t_92,"Crown Point, Mission Bay, California",,tide
+34.0567,-120.355,t_93,"Cuyler Harbor, San Miguel Island, California",,tide
+38.0619,-122.2767,c_90,"Davis Point, 1.0 nmi NW of (depth 7 ft), San Pablo Bay, California Current",,current
+38.0633,-122.2583,c_92,"Davis Point, midchannel (depth 8 ft), San Pablo Bay, California Current",,current
+38.0117,-121.638,t_94,"Davis Slough, San Joaquin River, California",,tide
+48.4167,-122.7333,c_93,"Deception Island, 2.7 mile West of, Washington Current",,current
+48.4125,-122.7395,c_94,"Deception Island, 2.7 miles west of, Washington Current",,current
+48.4062,-122.6431,c_95,"Deception Pass (Narrows) (depth 18 ft), Rosario Strait, Washington Current",,current
+48.4150,-122.652,t_95,"Deception Pass St. Park, Bowman Bay, Fidalgo I., Washington",,tide
+44.8100,-124.058,t_96,"Depoe Bay, Oregon",,tide
+47.6667,-124.4833,t_97,"Destruction Island, Washington",,tide
+45.4817,-123.902,t_98,"Dick Point, Tillamook Bay, Oregon",,tide
+38.0589,-122.193,c_96,"Dillon Point (depth 19 ft), Carquinez Strait, California Current",,current
+48.4521,-123.1554,c_97,"Discovery Island, 3.0 nmi NE of (depth 41 ft), Washington Current",,current
+48.4500,-123.15,c_98,"Discovery Island, 3.3 miles northeast of, Washington Current",,current
+48.3002,-123.1672,c_99,"Discovery Island, 7.6 mi SSE of (depth 28 ft), Strait of Juan de Fuca, Washington Current",,current
+37.9961,-122.9767,t_99,"Drakes Bay, Point Reyes, California",,tide
+48.9908,-122.7678,c_101,"Drayton Harbor entrance, Georgia Strait, Washington Current",,current
+48.9917,-122.765,t_100,"Drayton Harbor, Blaine, Strait of Georgia, Washington",,tide
+44.4133,-123.99,t_101,"Drift Creek, Alsea River, Oregon",,tide
+37.5000,-122.1167,t_102,"Dumbarton Bridge, San Francisco Bay, California (2)",,tide
+37.5100,-122.12,c_102,"Dumbarton Bridge, San Francisco Bay, California Current",,current
+37.5018,-122.116,c_103,"Dumbarton Highway Bridge (depth 4 ft), San Francisco Bay, California Current",,current
+37.5067,-122.115,t_103,"Dumbarton Highway Bridge, San Francisco Bay, California",,tide
+37.5000,-122.1166,c_104,"Dumbarton Hwy Bridge, South San Francisco Bay, California Current",,current
+37.5013,-122.1155,c_105,"Dumbarton Hwy. Bridge, 0.28 nmi SE of (depth 25 ft), California Current",,current
+37.4667,-122.0666,c_106,"Dumbarton Point 2.3 mi NE, South San Francisco Bay, California Current",,current
+37.4875,-122.0813,c_107,"Dumbarton Point, 1.15 nmi SE of (depth 17 ft), San Francisco Bay, California Current",,current
+37.4750,-122.07,c_108,"Dumbarton Point, 2.25 mi SE of (depth 8 ft), San Francisco Bay, California Current",,current
+48.1667,-123.117,t_104,"Dungeness, Strait of Juan de Fuca, Washington",,tide
+48.1667,-123.1167,t_105,"Dungeness, Washington",,tide
+48.5833,-122.7,t_106,"Eagle Harbor, Cypress Island, Washington",,tide
+48.7500,-122.9,t_107,"Echo Bay, Sucia Island, Washington",,tide
+48.7567,-122.897,t_108,"Echo Bay, Sucia Islands, Strait of Georgia, Washington",,tide
+38.1917,-122.312,t_109,"Edgerley Island, Napa River, California",,tide
+38.1917,-122.3116,t_110,"Edgerley Island, Napa River, Carquinez Strait, California",,tide
+48.1667,-123.4158,c_109,"Ediz Hook Light, 1.2 mi N of (depth 36 ft), Strait of Juan de Fuca, Washington Current",,current
+48.1667,-123.4167,c_110,"Ediz Hook Light, 1.2 miles north of, Washington Current",,current
+48.1823,-123.2815,c_111,"Ediz Hook Light, 5.3 mi ENE of (depth 22 ft), Strait of Juan de Fuca, Washington Current",,current
+48.1833,-123.2833,c_112,"Ediz Hook Light, 5.3 miles ENE of, Washington Current",,current
+48.1400,-123.413,t_111,"Ediz Hook, Port Angeles, Strait of Juan de Fuca, Washington",,tide
+40.6333,-124.3166,t_112,"Eel River entrance, California",,tide
+33.9083,-118.433,t_113,"El Segundo, Santa Monica Bay, California",,tide
+40.7567,-124.1933,t_114,"Elk River Railroad Bridge #18, Humboldt Bay, California",,tide
+40.7567,-124.193,t_115,"Elk River Railroad Bridge, Humboldt Bay, California",,tide
+36.8183,-121.747,t_116,"Elkhorn Slough at Elkhorn, Monterey Bay, California",,tide
+36.8567,-121.755,t_117,"Elkhorn Slough railroad bridge, Monterey Bay, California",,tide
+36.8100,-121.785,t_118,"Elkhorn Slough, Highway 1 Bridge, Monterey Bay, California",,tide
+36.8133,-121.7866,t_119,"Elkhorn Yacht Club, California",,tide
+36.8133,-121.7867,t_120,"Elkhorn Yacht Club, Elkhorn Slough, California (sub)",,tide
+36.8133,-121.787,t_121,"Elkhorn Yacht Club, Monterey Bay, California",,tide
+36.8183,-121.745,t_122,"Elkhorn, California",,tide
+36.8183,-121.7467,t_123,"Elkhorn, Elkhorn Slough, Monterey Bay, California (sub)",,tide
+37.8433,-122.3254,c_113,"Emeryville Marina (depth 5 ft), San Francisco Bay, California Current",,current
+43.3917,-124.28,t_124,"Empire, Coos Bay, Oregon",,tide
+38.1212,-122.0675,c_114,"Entrance (depth 3 ft), Suisun Slough, Suisun Bay, California Current",,current
+46.9263,-124.1613,c_115,"Entrance, 0.2 mi south of north jetty, Grays Harbor, Washington Current",,current
+46.9147,-124.125,c_116,"Entrance, 0.6 mi WNW of Westport, Grays Harbor, Washington Current",,current
+38.0583,-121.8705,c_117,"Entrance, 0.7 mi SW of Chain Island (depth 7 ft), Suisun Bay, California Current",,current
+38.0585,-121.8712,c_118,"Entrance, 0.7 nmi SW of Chain Island (depth 9 ft), Sacramento River, California Current",,current
+46.9167,-124.1333,c_119,"Entrance, 1.1 mi NW of Westport, Grays Harbor, Washington Current",,current
+46.9083,-124.1555,c_120,"Entrance, Point Chehalis Range, Grays Harbor, Washington Current",,current
+44.0167,-124.1333,t_125,"Entrance, Siuslaw River, Oregon",,tide
+43.6833,-124.2,t_126,"Entrance, Umpqua River, Oregon",,tide
+40.8067,-124.142,t_127,"Eureka Slough Bridge, Humboldt Bay, California",,tide
+40.8067,-124.167,t_128,"Eureka, Humboldt Bay, California",,tide
+38.0550,-121.657,t_129,"False River, San Joaquin River, California",,tide
+48.5200,-122.7697,c_121,"Fauntleroy Point Light, 0.8 mile ESE of, Washington Current",,current
+48.5167,-122.7667,c_122,"Fauntleroy Point Light, 0.89 mile ESE of, Washington Current",,current
+48.5216,-122.7707,c_123,"Fauntleroy Point Light, east of (depth 21 ft), Rosario Strait, Washington Current",,current
+48.8333,-122.7167,t_130,"Ferndale, Strait of Georgia, Washington",,tide
+40.7233,-124.222,t_131,"Fields Landing, Humboldt Bay, California",,tide
+37.8500,-122.35,c_124,"Fleming Point 1.7 mi SW, San Francisco Bay, California Current",,current
+37.8770,-122.3588,c_125,"Fleming Point, 1.72 nmi SW of (depth 3 ft), San Francisco Bay, California Current",,current
+44.0021,-124.123,t_132,"Florence USCG Pier, Suislaw River, Oregon",,tide
+43.9667,-124.103,t_133,"Florence, Siuslaw River, Oregon",,tide
+39.4500,-123.8167,t_134,"Fort Bragg Landing, California",,tide
+46.2667,-124.0366,t_135,"Fort Canby, Jetty A, Columbia River, Washington",,tide
+46.2683,-124.037,t_136,"Fort Canby, Jetty A, Washington",,tide
+37.8092,-122.4828,c_126,"Fort Point, 0.3 nmi west of (depth 75 ft), California Current",,current
+37.8117,-122.4663,c_127,"Fort Point, 0.5 nmi east of (depth 55 ft), California Current",,current
+38.5133,-123.245,t_137,"Fort Ross, California",,tide
+48.5500,-123,t_138,"Friday Harbor, San Juan Channel, Washington",,tide
+48.5453,-123.0129,t_139,"Friday Harbor, San Juan Island, San Juan Channel, Washington",,tide
+48.5467,-123.01,t_140,"Friday Harbor, San Juan Island, Washington",,tide
+48.5392,-122.8308,c_128,"Frost-Willow Island, between, Rosario Strait, Washington Current",,current
+32.7083,-117.1775,c_129,"G St. Pier (San Diego), 0.22 nmi SW of (depth 14 ft), San Diego Bay, California Current",,current
+38.0150,-122.5033,t_141,"Gallinas Creek, San Pablo Bay, California",,tide
+38.0150,-122.503,t_142,"Gallinas, Gallinas Creek, San Pablo Bay, California",,tide
+48.0583,-122.917,t_143,"Gardiner, Discovery Bay, Strait of Juan de Fuca, Washington",,tide
+48.0667,-122.9167,t_144,"Gardiner, Discovery Bay, Washington",,tide
+43.7333,-124.1167,t_145,"Gardiner, Umpqua River, Oregon",,tide
+45.5583,-123.9117,t_146,"Garibaldi, Oregon",,tide
+45.5545,-123.9189,t_147,"Garibaldi, Tillamook Bay, Oregon",,tide
+34.4694,-120.2283,t_148,"Gaviota State Park, California",,tide
+34.4667,-120.2167,t_149,"Gaviota, California",,tide
+36.8017,-121.7866,t_150,"General Fish Company Pier, California",,tide
+36.8017,-121.7867,t_151,"General Fish Company Pier, Moss Landing, California (sub)",,tide
+36.8017,-121.787,t_152,"General Fish Company Pier, Moss Landing, Monterey Bay, California",,tide
+38.1250,-121.578,t_153,"Georgiana Slough entrance, Mokelumne River, California",,tide
+42.4216,-124.4187,t_154,"Gold Beach, Rogue River, Oregon",,tide
+37.4233,-121.975,t_155,"Gold Street Bridge, Alviso Slough, San Francisco Bay, California",,tide
+37.8167,-122.45,c_130,"Golden Gate Bridge .8 mi E ., San Francisco Bay, California Current",,current
+37.8201,-122.473,c_131,"Golden Gate Bridge, 0.46 nmi E of (depth 30 ft), California Current",,current
+37.8217,-122.4617,c_132,"Golden Gate Bridge, 0.8 mi east of, California Current",,current
+37.8292,-122.462,c_133,"Golden Gate Bridge, 0.88 nmi NE of (depth 21 ft), California Current",,current
+48.7300,-122.67,t_156,"Gooseberry Point, Hale Passage, Washington",,tide
+37.4950,-122.213,t_157,"Granite Rock, Redwood Creek, San Francisco Bay, California",,tide
+37.8200,-121.4466,t_158,"Grant Line Canal (drawbridge), Old River, California",,tide
+37.8200,-121.447,t_159,"Grant Line Canal (drawbridge), San Joaquin River, California",,tide
+46.9225,-124.133,c_134,"Grays Harbor entrance (depth 12 ft), Washington Current",,current
+38.7043,-123.4494,t_160,"Green Cove, California",,tide
+48.5047,-122.7062,c_135,"Green Point, 0.8 mi northwest of, Rosario Strait, Washington Current",,current
+48.5000,-122.7,c_136,"Green Point, 0.8 mile NW of, Washington Current",,current
+46.3722,-123.9503,t_161,"Greenhead Slough, Washington",,tide
+38.1032,-122.0525,c_137,"Grizzly Bay entrance (depth 2 ft), Suisun Bay, California Current",,current
+48.5167,-122.65,c_138,"Guemes Channel, West entrance of, Washington Current",,current
+48.5277,-122.606,c_139,"Guemes Channel, east entrance (depth 9 ft), Rosario Strait, Washington Current",,current
+48.5212,-122.6522,c_140,"Guemes Channel, west entrance (depth 11 ft), Rosario Strait, Washington Current",,current
+48.7313,-122.6778,c_141,"Hale Passage, 0.5 mile SE of Lummi Point, Washington Current",,current
+48.7349,-122.6802,c_142,"Hale Passage, east of Lummi Point (depth 8 ft), Rosario Strait, Washington Current",,current
+37.5017,-122.4866,t_162,"Half Moon Bay, California",,tide
+43.6750,-124.192,t_163,"Halfmoon Bay, Umpqua River, Oregon",,tide
+46.2017,-123.945,t_164,"Hammond, Oregon",,tide
+46.2112,-123.9345,c_143,"Hammond, northeast of ship channel (depth 15 ft), Oregon Current",,current
+48.5817,-123.17,t_165,"Hanbury Point, Mosquito Pass, San Juan I., Haro Strait, Washington",,tide
+32.7192,-117.1917,c_144,"Harbor Island (east end), SSW of (depth 15 ft), San Diego Bay, California Current",,current
+48.5908,-122.9205,c_145,"Harney Channel, Washington Current",,current
+48.5897,-122.9217,c_146,"Harney Channel, north of Point Hudson (depth 10 ft), San Juan Channel, Washington Current",,current
+48.5887,-123.2258,c_147,"Haro Strait, 1.2 nmi west of Kellett Bluff (depth 66 ft), Washington Current",,current
+44.1333,-124.1333,c_148,"Heceta Head, Oregon Current",,current
+38.0233,-122.292,t_166,"Hercules, Refugio Landing, San Pablo Bay, California",,tide
+38.1617,-122.55,t_167,"Hog Island, San Antonio Creek, San Pablo Bay, California",,tide
+37.9350,-121.435,t_168,"Holt, Whiskey Slough, San Joaquin River, California",,tide
+40.6867,-124.222,t_169,"Hookton Slough, Humboldt Bay, California",,tide
+48.8000,-123.2667,t_170,"Hope Bay, British Columbia",,tide
+48.5458,-122.5663,c_149,"Huckleberry Island, 0.5 mi north of, Rosario Strait, Washington Current",,current
+40.7450,-124.2267,t_171,"Humboldt Bay (south jetty), California (expired 1984-12-31)",,tide
+40.7667,-124.25,t_172,"Humboldt Bay Entrance, California",,tide
+40.7579,-124.2328,c_150,"Humboldt Bay ent., 0.1 nmi NE of South Spit Light (depth 14 ft), California Current",,current
+40.7651,-124.2375,c_151,"Humboldt Bay entrance channel (depth 15 ft), California Current",,current
+40.7570,-124.2234,c_152,"Humboldt Bay entrance channel LB 9 (depth 11 ft), California Current",,current
+40.7667,-124.2167,t_173,"Humboldt Bay, North Spit, California (2) (expired 1993-12-31)",,tide
+40.7669,-124.253,c_153,"Humboldy Bay Bar Channel, 0.4 nmi WNW of (depth 4 ft), Humboldt Bay, California Current",,current
+46.2583,-123.848,t_174,"Hungry Harbor, Washington",,tide
+46.2583,-123.8483,t_175,"Hungry Harbor., Columbia River, Washington",,tide
+37.6960,-122.3381,c_154,"Hunters Point, 1.6 nmi SE of (depth 5 ft), San Francisco Bay, California Current",,current
+37.7300,-122.357,t_176,"Hunters Point, San Francisco Bay, California",,tide
+48.3833,-122.9167,c_155,"Iceberg Point, 2.1 mi SSW of, Rosario Strait, Washington Current",,current
+46.3033,-124.04,t_177,"Ilwaco, Baker Bay, Washington",,tide
+32.5783,-117.135,t_178,"Imperial Beach, California",,tide
+38.1133,-122.868,t_179,"Inverness, Tomales Bay, California",,tide
+38.0333,-121.583,t_180,"Irish Landing, Sand Mound Slough, San Joaquin River, California",,tide
+47.9067,-124.647,t_181,"James Island, Washington",,tide
+48.1872,-124.0625,t_182,"Jim Creek, Washington",,tide
+48.6833,-123.15,c_156,"Johns Island, 0.8 mi north of, Washington Current",,current
+38.1800,-122.045,t_183,"Joice Island, Suisun Slough, Suisun Bay, California",,tide
+48.2317,-123.53,c_157,"Juan De Fuca Strait (East), British Columbia Current",,current
+48.1000,-122.9667,c_158,"Kamen Point, 1.3 miles southwest of, Washington Current",,current
+48.4850,-123.083,t_184,"Kanaka Bay, San Juan Island, Haro Strait, Washington",,tide
+48.4833,-123.0833,t_185,"Kanaka Bay, San Juan Island, Washington",,tide
+48.1076,-122.9737,c_159,"Kanem Point, 1.5 mi SW of Protection Island (depth 22 ft), Washington Current",,current
+48.5892,-123.225,c_160,"Kellett Bluff, west of, Washington Current",,current
+44.8967,-124,t_186,"Kernville, Siletz River, Oregon",,tide
+33.8467,-118.398,t_187,"King Harbor, Santa Monica Bay, California",,tide
+48.4833,-122.9558,c_161,"Kings Point, Lopez Island, 1 mi NNW of (depth 15 ft), Washington Current",,current
+48.4833,-122.95,c_162,"Kings Point, Lopez Island, 1 nnw of, Washington Current",,current
+36.8333,-121.75,t_188,"Kirby Park, Elkhorn Slough, Monterey Bay, California",,tide
+36.8413,-121.7453,t_189,"Kirby Park, Elkhorn Slough, Monterey Bay, Port San Luis, California",,tide
+38.0976,-121.5684,t_190,"Korths Harbor, San Joaquin River, California",,tide
+48.3917,-122.497,t_191,"La Conner, Swinomish Channel, Washington",,tide
+48.3917,-122.4967,t_192,"La Conner, Washington",,tide
+32.8669,-117.2571,t_193,"La Jolla (Scripps Institution Wharf), California",,tide
+32.8667,-117.2567,t_194,"La Jolla, Scripps Pier, California",,tide
+47.9133,-124.6369,t_195,"La Push, Quillayute River, Washington",,tide
+38.1983,-122.547,t_196,"Lakeville, Petaluma River, California",,tide
+38.2000,-122.5667,t_197,"Lakeville, Petaluma River, San Pablo Bay, California",,tide
+48.6783,-122.7145,c_163,"Lawrence Point, Orcas I., 1.3 mi. NE of, Washington Current",,current
+48.6500,-122.7167,c_164,"Lawrence Point, Orcas Island, 1.3 mile East of, Washington Current",,current
+48.6794,-122.7147,c_165,"Lawrence Point, Orcas Island, 1.3 nmi NE of (depth 37 ft), Washington Current",,current
+48.6263,-123.1092,c_166,"Limestone Point, Spieden Channel, Washington Current",,current
+37.5833,-122.2,c_167,"Little Coyote Pt 3.1 mi ENE, South San Francisco Bay, California Current",,current
+37.6500,-122.2166,c_168,"Little Coyote Pt 3.4 mi NNE, South San Francisco Bay, California Current",,current
+37.5903,-122.2487,c_169,"Little Coyote Pt., 1.2 nmi NE of (depth 10 ft), San Francisco Bay, California Current",,current
+37.5980,-122.2055,c_170,"Little Coyote Pt., 3.1 nmi ENE of (depth 4 ft), San Francisco Bay, California Current",,current
+37.6238,-122.2313,c_171,"Little Coyote Pt., 3.4 nmi NNE of (depth 4 ft), San Francisco Bay, California Current",,current
+33.7717,-118.21,t_198,"Long Beach, Inner Harbor, California",,tide
+33.7500,-118.2333,t_199,"Long Beach, Middle Harbor, California",,tide
+33.7583,-118.2066,t_200,"Long Beach, Outer Harbor, Pier A, California",,tide
+33.7517,-118.227,t_201,"Long Beach, Terminal Island, California",,tide
+48.4797,-122.8189,c_172,"Lopez Pass (depth 15 ft), Rosario Strait, Washington Current",,current
+33.7199,-118.2729,t_202,"Los Angeles (outer harbor), California",,tide
+33.7500,-118.2667,t_203,"Los Angeles Harbor, Mormon Island, California",,tide
+33.7200,-118.2717,t_204,"Los Angeles, California",,tide
+33.7167,-118.05,t_205,"Los Patos (highway bridge), California",,tide
+40.8650,-124.148,t_206,"Mad River Slough, Arcata Bay, Humboldt Bay, California",,tide
+48.2967,-124.672,t_207,"Makah Bay, Washington",,tide
+38.0433,-121.918,t_208,"Mallard Island Ferry Wharf, Suisun Bay, California",,tide
+35.9495,-121.4819,t_209,"Mansfield Cone, California",,tide
+38.0700,-122.25,t_210,"Mare Island Naval Shipyard, Carquinez Strait, California",,tide
+38.0742,-122.2428,c_173,"Mare Island Strait (Buoy 4) (depth 20 ft), Carquinez Strait, California Current",,current
+38.0667,-122.25,c_174,"Mare Island Strait Entrance, San Pablo Bay, California Current",,current
+38.0772,-122.2456,c_175,"Mare Island Strait, NE of Pier 34 (depth 6 ft), Carquinez Strait, California Current",,current
+38.0833,-122.25,c_176,"Mare Island Strait, So Vallejo, San Pablo Bay, California Current",,current
+48.1063,-122.6725,c_177,"Marrowstone Point, 0.8 mi NE of (depth 29 ft), Admiralty Inlet, Washington Current",,current
+48.1167,-122.7,c_178,"Marrowstone Point, 1.1 mi northwest of, Admiralty Inlet, Washington Current",,current
+48.0917,-122.69,t_211,"Marrowstone Point, Admiralty Inlet, Washington",,tide
+48.1000,-122.6833,t_212,"Marrowstone Point, Washington",,tide
+38.1617,-122.893,t_213,"Marshall, Tomales Bay, California",,tide
+38.0287,-122.1487,c_179,"Martinez Marina, 0.50 nmi west of (depth 30 ft), Carquinez Strait, California Current",,current
+38.0363,-122.1447,c_180,"Martinez Marina, 0.61 nmi NNW of (depth 23 ft), Carquinez Strait, California Current",,current
+38.0330,-122.1497,c_181,"Martinez Marina, 0.65 nmi NW of (depth 20 ft), Carquinez Strait, California Current",,current
+38.0346,-122.1252,t_214,"Martinez-Amorco Pier, California",,tide
+48.7488,-122.8658,c_182,"Matia Island, 0.8 mi west of, Rosario Strait, Washington Current",,current
+48.7500,-122.8667,c_183,"Matia Island, 0.8 mile West of, Washington Current",,current
+48.7500,-122.8333,c_184,"Matia Island, 1.4 mile North of, Washington Current",,current
+48.7722,-122.8495,c_185,"Matia Island, 1.4 miles north of, Washington Current",,current
+48.7749,-122.841,c_186,"Matia Island, west of (depth 47 ft), Rosario Strait, Washington Current",,current
+46.2395,-123.9153,c_187,"McGowan, SSW of (depth 14 ft), Washington Current",,current
+38.1367,-121.907,t_215,"Meins Landing, Montezuma Slough, Suisun Bay, California",,tide
+39.3000,-123.8,t_216,"Mendocino, Mendocino Bay, California",,tide
+45.5500,-123.9,t_217,"Miami Cove, Tillamook Bay, Oregon",,tide
+38.0575,-121.993,c_188,"Middle Point Lt., 0.18 nmi NNW of (depth 7 ft), Suisun Bay, California Current",,current
+37.7953,-122.5113,c_189,"Mile Rock Lt., 0.2 nmi NW of (depth 15 ft), California Current",,current
+32.7937,-117.2238,t_218,"Mission Bay, California",,tide
+37.7733,-122.3683,c_190,"Mission Rock, 0.6 mi east of, San Francisco Bay, California Current",,current
+37.7750,-122.3533,c_191,"Mission Rock, 1.3 mi east of (depth 8 ft), San Francisco Bay, California Current",,current
+37.7767,-122.3383,c_192,"Mission Rock, 2.0 mi east of, San Francisco Bay, California Current",,current
+36.6050,-121.8881,t_219,"Monterey, Monterey Harbor, California",,tide
+38.1333,-122.05,c_193,"Montezuma Slough 1 mi in W Entrance, Suisun Bay, California Current",,current
+38.1867,-121.98,t_220,"Montezuma Slough Bridge, Suisun Bay, California",,tide
+38.0833,-121.8833,c_194,"Montezuma Slough E end nr Brg, Suisun Bay, California Current",,current
+38.0767,-121.885,t_221,"Montezuma Slough, Suisun Bay, California",,tide
+38.0778,-121.8838,c_195,"Montezuma Slough, east end, near bridge (depth 6 ft), Suisun Bay, California Current",,current
+35.3670,-120.85,t_222,"Morro Bay, California",,tide
+35.4000,-120.8667,t_223,"Morro Beach, Estero Bay, California",,tide
+36.8000,-121.7833,t_224,"Moss Landing, Ocean Pier, California (sub)",,tide
+37.4933,-122.042,t_225,"Mowry Slough, San Francisco Bay, California",,tide
+34.1000,-119.1,t_226,"Mugu Lagoon (ocean pier), California",,tide
+37.6501,-122.2628,c_196,"Mulford Gardens Channel approach (depth 4 ft), San Francisco Bay, California Current",,current
+48.0583,-122.692,t_227,"Mystery Bay, Marrowstone Island, Admiralty Inlet, Washington",,tide
+48.0500,-122.6833,t_228,"Mystery Bay, Washington",,tide
+46.5017,-124.023,t_229,"Nahcotta, Willapa Bay, Washington",,tide
+46.5000,-124.0233,t_230,"Nahcotta, Willipa Bay, Washington",,tide
+38.2983,-122.28,t_231,"Napa, Napa River, California",,tide
+38.2983,-122.2833,t_232,"Napa, Napa River, Carquinez Strait, California",,tide
+48.7667,-123.1,t_233,"Narvaez Bay, British Columbia",,tide
+46.3883,-123.84,t_234,"Naselle River, 4 mi above swing bridge, Willapa Bay, Washington",,tide
+46.4300,-123.903,t_235,"Naselle River, swing bridge, Willapa Bay, Washington",,tide
+32.6650,-117.118,t_236,"National City, San Diego Bay, California",,tide
+32.6500,-117.1167,c_197,"National City, San Diego Bay, California Current",,current
+32.6622,-117.1255,c_198,"National City, WSW of Pier 12 (depth 32 ft), San Diego Bay, California Current",,current
+48.3428,-122.6858,t_237,"Naval Air Station Whidbey Island, Washington",,tide
+48.3703,-124.6019,t_238,"Neah Bay, Strait Of Juan De Fuca, Washington",,tide
+48.3683,-124.6167,t_239,"Neah Bay, Washington",,tide
+45.7100,-123.89,t_240,"Nehalem, Nehalem River, Oregon",,tide
+45.1667,-123.9667,t_241,"Nestucca Bay entrance, Oregon",,tide
+45.4300,-123.945,t_242,"Netarts, Netarts Bay, Oregon",,tide
+48.2335,-123.1334,c_199,"New Dungeness Light, 2.8 mi NNW of (depth 52 ft), Washington Current",,current
+48.2333,-123.1333,c_200,"New Dungeness Light, 2.8 miles NNW of, Washington Current",,current
+48.2667,-123.05,c_201,"New Dungeness Light, 6 mi NNE of (depth 15 ft), Washington Current",,current
+38.2267,-121.49,t_243,"New Hope Bridge, Mokelumne River, California",,tide
+38.0325,-121.8691,c_202,"New York Slough, 0.6 mi E of Pt. Emmet (depth 5 ft), Suisun Bay, California Current",,current
+38.0283,-121.8463,c_203,"New York Slough, Winter Island (depth 15 ft), Suisun Bay, California Current",,current
+37.5133,-122.08,t_244,"Newark Slough, San Francisco Bay, California",,tide
+33.6033,-117.8833,t_245,"Newport Bay Entrance, Corona del Mar, California",,tide
+33.6033,-117.883,t_246,"Newport Beach, Newport Bay entrance, Corona del Mar, California",,tide
+44.6333,-124.05,t_247,"Newport, Yaquina Bay and River, Oregon",,tide
+40.7873,-124.1943,c_204,"North Bay Channel at Fairhaven (depth 13 ft), Humboldt Bay, California Current",,current
+40.7962,-124.1873,c_205,"North Bay Channel at Samoa Channel (depth 15 ft), Humboldt Bay, California Current",,current
+40.7775,-124.1966,c_206,"North Bay Channel, Chevron Pier (depth 15 ft), Humboldt Bay, California Current",,current
+40.7871,-124.1927,c_207,"North Bay Channel, west of Eureka (depth 15 ft), Humboldt Bay, California Current",,current
+45.7338,-123.8764,t_248,"North Fork, Nehalem River, Oregon",,tide
+32.7130,-117.2128,c_208,"North Island (depth 14 ft), San Diego Bay, California Current",,current
+37.8142,-122.407,c_209,"North Point, Pier 35, north of (depth 12 ft), San Francisco Bay, California Current",,current
+37.8100,-122.4133,t_249,"North Point, Pier 41, San Francisco Bay, California",,tide
+37.8100,-122.413,t_250,"North Point, Pier 41, San Francisco, San Francisco Bay, California",,tide
+40.7663,-124.2172,t_251,"North Spit, Humboldt Bay, California",,tide
+45.5700,-123.965,t_252,"North jetty, Tillamook Bay, Oregon",,tide
+39.4258,-123.8051,t_253,"Noyo Harbor, Fort Bragg, California",,tide
+39.4167,-123.8,t_254,"Noyo River, California",,tide
+38.1833,-121.923,t_255,"Nurse Slough, Bradmoor Island, Suisun Bay, California",,tide
+48.0167,-122.7167,t_256,"Oak Bay, Admiralty Inlet, Washington",,tide
+37.7945,-122.3442,c_210,"Oakland 7th St. Marine, 0.6 nmi SSW of (depth 21 ft), California Current",,current
+37.6667,-122.2166,c_211,"Oakland Airport SW, South San Francisco Bay, California Current",,current
+37.7317,-122.208,t_257,"Oakland Airport, San Francisco Bay, California",,tide
+37.6822,-122.2308,c_212,"Oakland Airport, southwest of (depth 3 ft), San Francisco Bay, California Current",,current
+37.7950,-122.283,t_258,"Oakland Berth 67, San Francisco Bay, California",,tide
+37.7667,-122.2166,c_213,"Oakland Harbor High Street Bridge, San Francisco Bay, California Current",,current
+37.8000,-122.2666,c_214,"Oakland Harbor WebStreeter Street, San Francisco Bay, California Current",,current
+37.7717,-122.235,t_259,"Oakland Harbor, Park Street Bridge, San Francisco Bay, California",,tide
+37.7917,-122.2745,c_215,"Oakland Harbor, Webster Street, San Francisco Bay, California Current",,current
+37.7950,-122.3183,c_216,"Oakland Inner Harbor Channel (depth 4 ft), San Francisco Bay, California Current",,current
+37.8010,-122.3478,c_217,"Oakland Inner Harbor LB4 (depth 14 ft), San Francisco Bay, California Current",,current
+37.7929,-122.2855,c_218,"Oakland Inner Harbor Reach (depth 4 ft), San Francisco Bay, California Current",,current
+37.8017,-122.34,c_220,"Oakland Inner Harbor entrance (depth 8 ft), San Francisco Bay, California Current",,current
+37.7950,-122.282,t_260,"Oakland Inner Harbor, San Francisco Bay, California",,tide
+37.8050,-122.338,t_261,"Oakland Middle Harbor, San Francisco Bay, California",,tide
+37.8000,-122.3333,c_221,"Oakland Outer Harbor Entrance, San Francisco Bay, California Current",,current
+37.8082,-122.3443,c_222,"Oakland Outer Harbor entrance, LB 3 (depth 14 ft), San Francisco Bay, California Current",,current
+37.7950,-122.33,t_262,"Oakland Pier, San Francisco Bay, California",,tide
+37.8100,-122.327,t_263,"Oakland, Matson Wharf, San Francisco Bay, California",,tide
+37.8098,-122.3507,c_223,"Oakland, Yerba Buena Island (depth 13 ft), San Francisco Bay, California Current",,current
+48.6037,-122.8133,c_224,"Obstruction Pass Light, 0.4 mile NW of, Washington Current",,current
+48.6033,-122.8127,c_225,"Obstruction Pass, north of Obstruction Island (depth 8 ft), Washington Current",,current
+37.7667,-122.5167,t_264,"Ocean Beach, California",,tide
+37.7750,-122.513,t_265,"Ocean Beach, outer coast, California",,tide
+36.8017,-121.79,t_266,"Ocean Pier, Moss Landing, Monterey Bay, California",,tide
+34.4692,-120.6819,t_267,"Oil Platform Harvest (Topex Project), California",,tide
+48.6000,-122.95,t_268,"Orcas, Orcas Island, Washington",,tide
+37.9383,-121.56,t_269,"Orwood, Old River, San Joaquin River, California",,tide
+37.6500,-122.3166,c_226,"Oyster Point 2.8 mi E, South San Francisco Bay, California Current",,current
+37.6650,-122.377,t_270,"Oyster Point Marina, San Francisco Bay, California",,tide
+37.6650,-122.3233,c_227,"Oyster Point, 2.8 mi east of (depth 8 ft), San Francisco Bay, California Current",,current
+36.8133,-121.7583,t_271,"Pacific Mariculture Dock, Elkhorn Slough, California",,tide
+36.8167,-121.7667,t_272,"Pacific Mariculture Dock, Elkhorn Slough, Monterey Bay, California (sub)",,tide
+36.8133,-121.758,t_273,"Pacific Mariculture Dock, Monterey Bay, California",,tide
+46.5867,-123.91,t_274,"Palix River, south fork, Willapa Bay, Washington",,tide
+37.4500,-122.1,t_275,"Palo Alto Yacht Harbor, California",,tide
+37.4583,-122.105,t_276,"Palo Alto Yacht Harbor, San Francisco Bay, California",,tide
+46.4683,-123.945,t_277,"Paradise Point, Long Island, Willapa Bay, Washington",,tide
+48.7330,-122.89,c_228,"Parker Reef Light, 0.5 mile north of, Washington Current",,current
+48.7333,-122.8833,c_229,"Parker Reef Light, 1 mile North of, Washington Current",,current
+48.7326,-122.8864,c_230,"Parker Reef Light, north of (depth 25 ft), Rosario Strait, Washington Current",,current
+48.7888,-123.0033,c_231,"Patos Island Light, 1.4 miles west of, Washington Current",,current
+48.7731,-123.0058,c_232,"Patos Island Light, 1.4 nmi west of (depth 46 ft), Rosario Strait, Washington Current",,current
+48.7867,-122.97,t_278,"Patos Island Wharf, Boundary Pass, Washington",,tide
+48.7833,-122.9667,t_279,"Patos Island Wharf, Washington",,tide
+48.7721,-122.9337,c_233,"Patos Island, south of Toe Point (depth 14 ft), Rosario Strait, Washington Current",,current
+48.6167,-122.7333,c_234,"Peapod Rocks Light, 1.2 mile South of, Washington Current",,current
+48.6222,-122.7472,c_235,"Peapod Rocks Light, 1.2 miles south of, Washington Current",,current
+48.6224,-122.7476,c_236,"Peapod Rocks Light, 1.2 nmi south of (depth 39 ft), Rosario Strait, Washington Current",,current
+48.5113,-122.9528,c_237,"Pear Point, 1.1 miles east of, Washington Current",,current
+48.5167,-122.95,c_238,"Pear Point, San Juan Island, 1.1 mile East of, Washington Current",,current
+48.5114,-122.9529,c_239,"Pear Point, east of (depth 32 ft), San Juan Channel, Washington Current",,current
+48.6000,-122.8,t_280,"Peavine Pass, Washington",,tide
+48.5833,-122.8167,c_240,"Peavine Pass, West Entrance of, Washington Current",,current
+48.5871,-122.8193,c_241,"Peavine Pass, west entrance (depth 9 ft), Rosario Strait, Washington Current",,current
+48.5870,-122.82,c_242,"Peavine Pass, west entrance, Washington Current",,current
+38.0500,-122.4166,c_243,"Petaluma River Approach #3/#4, San Pablo Bay, California Current",,current
+38.0435,-122.4263,c_244,"Petaluma River approach (Buoys 3 and 4) (depth 2 ft), San Pablo Bay, California Current",,current
+38.0700,-122.42,c_245,"Petaluma River approach (depth 4 ft), San Pablo Bay, California Current",,current
+38.1105,-122.493,c_246,"Petaluma River entrance (depth 7 ft), San Pablo Bay, California Current",,current
+38.1153,-122.5057,t_281,"Petaluma River entrance, San Pablo Bay, California",,tide
+37.8053,-122.3973,c_247,"Pier 23 (depth 4 ft), San Francisco Bay, California Current",,current
+38.1267,-122.1,t_282,"Pierce Harbor, Goodyear Slough, Suisun Bay, California",,tide
+37.5025,-122.4822,t_283,"Pillar Point Harbor, Half Moon Bay, California",,tide
+48.3000,-124.0374,c_248,"Pillar Point, 6 mi NNE of (depth 41 ft), Strait of Juan de Fuca, Washington Current",,current
+48.2667,-124.0667,c_249,"Pillar Point, Washington Current",,current
+38.0167,-122.3666,c_250,"Pinole Point 1.2 mi W, San Pablo Bay, California Current",,current
+38.0080,-122.3897,c_251,"Pinole Point, 1.18 nmi west of (depth 19 ft), San Pablo Bay, California Current",,current
+38.0308,-122.3772,c_252,"Pinole Point, 1.27 nmi NNW of (depth 5 ft), San Pablo Bay, California Current",,current
+38.0338,-122.3792,c_253,"Pinole Point, 1.42 nmi NNW of (depth 21 ft), San Pablo Bay, California Current",,current
+38.0267,-122.4247,c_254,"Pinole Point, 3.0 nmi WNW of (depth 8 ft), San Pablo Bay, California Current",,current
+38.0150,-122.363,t_284,"Pinole Point, San Pablo Bay, California",,tide
+38.0476,-122.3341,c_255,"Pinole Shoal (depth 3 ft), San Pablo Bay, California Current",,current
+38.0367,-121.88,t_285,"Pittsburg, New York Slough, Suisun Bay, California",,tide
+46.2278,-123.9675,c_256,"Point Adams, NNE of (depth 14 ft), Oregon Current",,current
+46.2000,-123.95,t_286,"Point Adams, Oregon",,tide
+38.9500,-123.7333,t_287,"Point Arena, California",,tide
+34.5667,-120.6667,c_257,"Point Arguello, California Current",,current
+37.7167,-122.3333,c_258,"Point Avisadero .3 mi E, South San Francisco Bay, California Current",,current
+37.7167,-122.3,c_259,"Point Avisadero 2 mi E, South San Francisco Bay, California Current",,current
+37.7300,-122.3483,c_260,"Point Avisadero, 0.3 mi east of (depth 8 ft), San Francisco Bay, California Current",,current
+37.7230,-122.3238,c_261,"Point Avisadero, 0.6 nmi ESE of (depth 21 ft), San Francisco Bay, California Current",,current
+37.7300,-122.3367,c_262,"Point Avisadero, 1 mi east of (depth 8 ft), San Francisco Bay, California Current",,current
+37.7078,-122.3495,c_263,"Point Avisadero, 1.25 nmi SSE of (depth 20 ft), San Francisco Bay, California Current",,current
+37.7317,-122.3133,c_264,"Point Avisadero, 2 mi east of (depth 6 ft), San Francisco Bay, California Current",,current
+38.0422,-121.838,c_265,"Point Beenar, 0.7 nmi north of (depth 5 ft), San Joaquin River, California Current",,current
+38.0325,-121.8355,c_266,"Point Beenar, 100 yd NE of (depth 14 ft), San Joaquin River, California Current",,current
+37.8333,-122.4,c_267,"Point Blunt .8 mi SE, San Francisco Bay, California Current",,current
+37.8467,-122.4167,c_268,"Point Blunt, Angel I., 0.25 mi S of (depth 8 ft), San Francisco Bay, California Current",,current
+37.8455,-122.423,c_269,"Point Blunt, Angel I., 0.5 nmi SW of (depth 21 ft), San Francisco Bay, California Current",,current
+37.8120,-122.5212,c_270,"Point Bonita Lt., 0.4 nmi SSE of (depth 43 ft), California Current",,current
+37.8045,-122.6388,c_271,"Point Bonita Lt., 5.27 nmi WSW of (depth 39 ft), California Current",,current
+37.8208,-122.5162,c_272,"Point Bonita, 0.8 nmi NE of (depth 22 ft), California Current",,current
+37.8011,-122.5184,c_273,"Point Bonita, 0.95 nmi SSE of (depth 17 ft), California Current",,current
+37.8012,-122.5188,c_274,"Point Bonita, 0.95 nmi. SSE of, California Current (22d)",,current
+37.8183,-122.528,t_288,"Point Bonita, Bonita Cove, San Francisco Bay, California",,tide
+46.9500,-124.128,t_289,"Point Brown, Grays Harbor, Washington",,tide
+38.1000,-122.033,t_290,"Point Buckler, Suisun Bay, California",,tide
+39.3500,-123.8333,c_275,"Point Cabrillo, California Current",,current
+37.8167,-122.4333,c_276,"Point Cavallo 1.3 mi E, San Francisco Bay, California Current",,current
+37.8317,-122.4433,c_277,"Point Cavallo, 1.3 mi east of (depth 8 ft), San Francisco Bay, California Current",,current
+37.9030,-122.4588,c_278,"Point Chauncey, 0.75 nmi NW of (depth 19 ft), San Francisco Bay, California Current",,current
+37.9153,-122.4461,c_279,"Point Chauncey, 1.25 nmi north of (depth 5 ft), San Francisco Bay, California Current",,current
+37.8908,-122.4188,c_280,"Point Chauncey, 1.3 mi east of (depth 7 ft), San Francisco Bay, California Current",,current
+37.8917,-122.443,t_291,"Point Chauncey, San Francisco Bay, California",,tide
+48.4181,-122.7812,c_281,"Point Colville, 1.4 nmi east of (depth 29 ft), Rosario Strait, Washington Current",,current
+48.4125,-122.7403,c_282,"Point Colville, 3.0 nmi east of (depth 34 ft), Rosario Strait, Washington Current",,current
+40.0000,-124.0667,c_283,"Point Delgada, California Current",,current
+37.8178,-122.4967,c_284,"Point Diablo, 0.2 mi SE of, California Current",,current
+48.6667,-123.0167,c_285,"Point Disney, 1.6 mile East of, Washington Current",,current
+48.6728,-123.0062,c_286,"Point Disney, 1.6 miles east of, Washington Current",,current
+46.2417,-123.8483,c_287,"Point Ellice, east of (depth 17 ft), Washington Current",,current
+48.5567,-122.9985,c_288,"Point George, west of (depth 53 ft), San Juan Channel, Washington Current",,current
+47.3033,-124.27,t_292,"Point Grenville, Washington",,tide
+48.7320,-123.0253,c_289,"Point Hammond, 1.1 mi northwest of (depth 15 ft), Washington Current",,current
+48.7333,-123.0333,c_290,"Point Hammond, 1.1 miles NW of, Washington Current",,current
+48.1167,-122.7167,c_291,"Point Hudson, 0.5 mile E of, Washington Current",,current
+48.1167,-122.7333,c_292,"Point Hudson, 0.5 mile east of, Washington Current",,current
+37.8983,-122.32,t_293,"Point Isabel, San Francisco Bay, California",,tide
+37.7717,-122.5355,c_293,"Point Lobos, 1.3 nmi SW of (depth 46 ft), California Current",,current
+37.7875,-122.5887,c_294,"Point Lobos, 3.73 nmi W of (depth 46 ft), California Current",,current
+37.7205,-122.5978,c_295,"Point Lobos, 5.47 nmi SW of (depth 39 ft), California Current",,current
+32.6658,-117.2262,c_296,"Point Loma Light, 0.8 nmi east of (depth 15 ft), San Diego Bay, California Current",,current
+32.6667,-117.2333,t_294,"Point Loma, California",,tide
+48.7500,-122.7167,t_295,"Point Migley, Hale Passage, Washington",,tide
+48.7500,-122.7166,t_296,"Point Migley, Washington",,tide
+37.9583,-122.425,t_297,"Point Orient, San Francisco Bay, California",,tide
+48.2333,-122.8667,c_297,"Point Partridge, 3.7 mi west of, Strait of Juan de Fuca, Washington Current",,current
+48.2317,-122.765,t_298,"Point Partridge, Whidbey Island, Strait of Juan de Fuca, Washington",,tide
+48.2333,-122.7667,t_299,"Point Partridge, Whidbey Island, Washington",,tide
+35.6667,-121.3,c_298,"Point Piedras Blancas, California Current",,current
+36.6333,-121.95,c_299,"Point Pinos, California Current",,current
+37.9967,-122.975,t_300,"Point Reyes, California",,tide
+37.9000,-122.4,c_300,"Point Richmond .5 mi W, San Francisco Bay, California Current",,current
+37.9050,-122.4,c_301,"Point Richmond, 0.5 mi west of (depth 6 ft), San Francisco Bay, California Current",,current
+37.9208,-122.3967,c_302,"Point Richmond, 0.8 nmi NNW of (depth 4 ft), San Francisco Bay, California Current",,current
+48.9750,-123.083,t_301,"Point Roberts, Strait of Georgia, Washington",,tide
+38.0643,-121.8337,c_303,"Point Sacramento, 0.2 nmi NE of (depth 4 ft), Sacramento River, California Current",,current
+38.0667,-121.8333,c_304,"Point Sacramento, 0.3 mi NE of (depth 7 ft), Sacramento River, California Current",,current
+37.6542,-122.3638,c_305,"Point San Bruno, 0.51 nmi east of (depth 10 ft), San Francisco Bay, California Current",,current
+37.6500,-122.377,t_302,"Point San Bruno, San Francisco Bay, California",,tide
+37.9667,-122.4333,c_306,"Point San Pablo Midchannel, San Pablo Bay, California Current",,current
+37.9689,-122.4391,c_307,"Point San Pablo, midchannel (depth 11 ft), San Pablo Bay, California Current",,current
+37.9797,-122.4367,c_308,"Point San Pedro, 0.55 nmi SE of (depth 20 ft), San Pablo Bay, California Current",,current
+37.9933,-122.447,t_303,"Point San Pedro, San Pablo Bay, California",,tide
+37.9500,-122.4333,c_309,"Point San Quentin 1.9 mi E, San Francisco Bay, California Current",,current
+37.9412,-122.4617,c_310,"Point San Quentin, 0.82 nmi east of (depth 15 ft), San Francisco Bay, California Current",,current
+37.9422,-122.4527,c_311,"Point San Quentin, 1.3 nmi east of (depth 23 ft), San Francisco Bay, California Current",,current
+37.9500,-122.44,c_312,"Point San Quentin, 1.9 mi east of (depth 8 ft), San Francisco Bay, California Current",,current
+37.9450,-122.475,t_304,"Point San Quentin, San Francisco Bay, California",,tide
+37.8738,-122.4028,c_313,"Point Simpson, Angel I., 1.05 nmi E of (depth 21 ft), California Current",,current
+36.3000,-121.9167,c_314,"Point Sur, California Current",,current
+48.1500,-122.75,c_315,"Point Wilson, 0.5 mi., northeast of, Washington Current",,current
+48.1501,-122.7454,c_316,"Point Wilson, 0.6 mi NE of (depth 17 ft), Admiralty Inlet, Washington Current",,current
+48.1500,-122.7333,c_317,"Point Wilson, 0.8 mi east of, Admiralty Inlet, Washington Current",,current
+48.1667,-122.7667,c_318,"Point Wilson, 1.1 miles NW of, Washington Current",,current
+48.1667,-122.7333,c_319,"Point Wilson, 1.4 miles northeast of, Washington Current",,current
+48.1569,-122.726,c_320,"Point Wilson, 1.6 mi NE of (depth 21 ft), Admiralty Inlet, Washington Current",,current
+48.1667,-122.7,c_321,"Point Wilson, 2.3 miles NE of, Washington Current",,current
+48.1671,-122.7074,c_322,"Point Wilson, 2.7 mi NE of (depth 20 ft), Admiralty Inlet, Washington Current",,current
+48.1250,-123.44,t_305,"Port Angeles, Strait Of Juan De Fuca, Washington",,tide
+48.1167,-123.4333,t_306,"Port Angeles, Washington",,tide
+38.0560,-122.0395,t_307,"Port Chicago, Suisun Bay, California",,tide
+38.0567,-122.0383,t_308,"Port Chicago, Suisun Bay, California (2) (expired 1996-12-31)",,tide
+34.1483,-119.203,t_309,"Port Hueneme, California",,tide
+42.7390,-124.4983,t_310,"Port Orford, Oregon",,tide
+35.1767,-120.76,t_311,"Port San Luis, Pacific Ocean, California",,tide
+48.1129,-122.7595,t_312,"Port Townsend (Point Hudson), Admiralty Inlet, Washington",,tide
+48.1167,-122.75,t_313,"Port Townsend (Point Hudson), Admiralty Inlet, Washington (sub)",,tide
+48.0325,-122.7326,c_323,"Port Townsend Canal (depth 5 ft), Admiralty Inlet, Washington Current",,current
+48.1117,-122.7583,t_314,"Port Townsend, Washington",,tide
+37.7500,-122.35,c_324,"Potrero Point 1.1 mi E, South San Francisco Bay, California Current",,current
+37.7575,-122.3578,c_325,"Potrero Point, 1.08 nmi east of (depth 20 ft), San Francisco Bay, California Current",,current
+37.7500,-122.3333,c_326,"Potrero Point, 2 mi east of, San Francisco Bay, California Current",,current
+37.7583,-122.383,t_315,"Potrero Point, San Francisco Bay, California",,tide
+48.6550,-123.0083,t_316,"President Channel, Orcas Island, Washington",,tide
+48.6733,-123.006,c_327,"President Channel, east of Point Disney (depth 69 ft), Washington Current",,current
+37.5000,-122.4833,t_317,"Princeton, Half Moon Bay, California",,tide
+34.0200,-119.683,t_318,"Prisoners Harbor, Santa Cruz Island, California",,tide
+38.0617,-121.555,t_319,"Prisoners Point, San Joaquin River, California",,tide
+37.8528,-122.4122,c_328,"Pt. Blunt, Angel I., 0.25 nmi east of (depth 21 ft), California Current",,current
+37.8450,-122.405,c_329,"Pt. Blunt, Angel I., 0.8 mi SE of, San Francisco Bay, California Current",,current
+38.0787,-122.0838,c_330,"Pt. Edith, 1.7 nmi NNW of (depth 24 ft), Suisun Bay, California Current",,current
+38.0617,-121.85,c_331,"Pt. San Joaquin, 0.45 nmi ENE of (depth 18 ft), San Joaquin River, California Current",,current
+48.8222,-122.8083,c_332,"Puffin Island Light, 4.8 mi north of, Rosario Strait, Washington Current",,current
+40.2500,-124.3667,c_333,"Punta Gorda, California Current",,current
+41.9453,-124.2009,t_320,"Pyramid Point, Smith River, California",,tide
+32.7000,-117.2333,c_334,"Quarantine Station, La Playa, San Diego Bay, California Current",,current
+33.7170,-118.1879,c_335,"Queens Gate (depth 35 ft), California Current",,current
+47.9167,-124.6333,c_336,"Quillayute River entrance, Washington Current",,current
+32.7667,-117.2333,t_321,"Quivira Basin, Mission Bay, California",,tide
+48.7063,-122.8292,c_337,"Raccoon Point, 0.6 mi NNE of, Rosario Strait, Washington Current",,current
+37.8719,-122.442,c_338,"Raccoon Strait (depth 19 ft), San Francisco Bay, California Current",,current
+37.8667,-122.4333,c_339,"Raccoon Strait off Hospital Cove, San Francisco Bay, California Current",,current
+37.8667,-122.45,c_340,"Raccoon Strait off Point Stuart, San Francisco Bay, California Current",,current
+37.8612,-122.452,c_341,"Raccoon Strait, off Point Stuart (depth 15 ft), San Francisco Bay, California Current",,current
+48.2232,-123.5323,c_342,"Race Rocks, 4.5 mi S of (depth 60 ft), Strait of Juan de Fuca, Washington Current",,current
+48.7000,-122.8167,c_343,"Racoon Point, 0.6  mile NNE of, Washington Current",,current
+37.9333,-122.4333,c_344,"Red Rock .1 E, San Francisco Bay, California Current",,current
+37.9400,-122.4267,c_345,"Red Rock, 0.60 nmi NNE of (depth 17 ft), San Francisco Bay, California Current",,current
+37.9295,-122.4283,c_346,"Red Rock, east of (depth 11 ft), San Francisco Bay, California Current",,current
+41.3500,-124.1833,c_347,"Redding Rock Light, California Current",,current
+37.5067,-122.21,t_322,"Redwood City, Wharf 5, San Francisco Bay, California",,tide
+37.5258,-122.1991,c_348,"Redwood Creek (depth 4 ft), San Francisco Bay, California Current",,current
+37.5333,-122.193,t_323,"Redwood Creek Marker 8, San Francisco Bay, California",,tide
+37.5167,-122.2,t_324,"Redwood Creek entrance (inside), San Francisco Bay, California",,tide
+37.5333,-122.1933,t_325,"Redwood Creek, C.M. No.8, San Francisco Bay, California",,tide
+37.5306,-122.1601,c_349,"Redwood Point, 1.7 nmi east of (depth 7 ft), San Francisco Bay, California Current",,current
+37.5580,-122.1988,c_350,"Redwood Pt., Blair I., 1.15 nmi NNE of (depth 19 ft), California Current",,current
+43.7083,-124.098,t_326,"Reedsport, Umpqua River, Oregon",,tide
+41.5450,-124.07,t_327,"Requa Dock, California",,tide
+48.4167,-122.6667,t_328,"Reservation Bay, Washington",,tide
+38.1467,-122.883,t_329,"Reynolds, Tomales Bay, California",,tide
+37.8500,-122.4666,c_351,"Richardson Bay Entrance, San Francisco Bay, California Current",,current
+48.4467,-122.9,t_330,"Richardson, Lopez Island, San Juan Channel, Washington",,tide
+37.9293,-122.425,c_352,"Richmond (depth 7 ft), San Francisco Bay, California Current",,current
+37.9100,-122.358,t_331,"Richmond Inner Harbor, San Francisco Bay, California",,tide
+37.9283,-122.4,t_332,"Richmond, Chevron Oil Pier, California",,tide
+34.3500,-119.45,t_333,"Rincon Island, California (2)",,tide
+37.7903,-122.3734,c_353,"Rincon Point (depth 9 ft), San Francisco Bay, California Current",,current
+37.7833,-122.35,c_354,"Rincon Point midbay, South San Francisco Bay, California Current",,current
+37.7900,-122.387,t_334,"Rincon Point, Pier 22½, San Francisco Bay, California",,tide
+37.7833,-122.3538,c_355,"Rincon Point, midbay (depth 11 ft), San Francisco Bay, California Current",,current
+43.1579,-124.1818,t_335,"Rink Creek entrance, Coquille River, Oregon",,tide
+38.1450,-121.692,t_336,"Rio Vista, Sacramento River, California",,tide
+37.6667,-122.2,t_337,"Roberts Landing, 1.3 mi west of, San Francisco Bay, California",,tide
+48.6100,-123.155,t_338,"Roche Harbor, San Juan Island, Haro Strait, Washington",,tide
+48.6167,-123.15,t_339,"Roche Harbor, San Juan Island, Washington",,tide
+38.0651,-122.0345,c_356,"Roe Island Channel (depth 6 ft), Suisun Bay, California Current",,current
+38.0737,-122.0217,c_358,"Roe Island, Gilbert Pt., 0.15 nmi NW of (depth 16 ft), Suisun Bay, California Current",,current
+48.4581,-122.7501,c_359,"Rosario Strait (depth 37 ft), Washington Current",,current
+48.6467,-122.87,t_340,"Rosario, East Sound, Orcas Island, Washington",,tide
+38.0772,-121.7639,c_360,"Sacramento River Light 14 (depth 3 ft), California Current",,current
+48.5359,-122.5639,c_361,"Saddle Bag Island Passage (depth 22 ft), Rosario Strait, Washington Current",,current
+38.5667,-123.35,c_362,"Salt Point, California Current",,current
+40.8267,-124.18,t_341,"Samoa, Humboldt Bay, California",,tide
+48.8167,-123.2,t_342,"Samuel Island (North Shore), British Columbia",,tide
+48.8000,-123.2,t_343,"Samuel Island (South Shore), British Columbia",,tide
+33.4167,-117.6167,t_344,"San Clemente, California",,tide
+32.6817,-117.23,c_363,"San Diego Bay entrance (depth 33 ft), California Current",,current
+32.7167,-117.1833,c_364,"San Diego, 0.5 mi west of, San Diego Bay, California Current",,current
+32.7133,-117.1733,t_345,"San Diego, California",,tide
+32.7033,-117.235,t_346,"San Diego, Quarantine Station, California",,tide
+32.7142,-117.1736,t_347,"San Diego, San Diego Bay, California",,tide
+37.7853,-122.614,c_365,"San Francisco Bar, north of ship channel (depth 5 ft), California Current",,current
+37.8167,-122.4833,c_366,"San Francisco Bay Entrance (Golden Gate), California Current",,current
+37.8067,-122.465,t_348,"San Francisco, California",,tide
+37.7900,-122.3867,t_349,"San Francisco, Pier 22 1/2, California",,tide
+37.8063,-122.4659,t_350,"San Francisco, San Francisco Bay, California",,tide
+48.4613,-122.9508,c_367,"San Juan Channel (south entrance), Washington Current",,current
+48.4610,-122.952,c_368,"San Juan Channel, south entrance (depth 75 ft), Washington Current",,current
+37.7483,-122.235,t_351,"San Leandro Channel, San Leandro Bay, San Francisco Bay, California",,tide
+37.6950,-122.192,t_352,"San Leandro Marina, San Francisco Bay, California",,tide
+37.5800,-122.2533,t_353,"San Mateo Bridge (West), California",,tide
+37.5878,-122.2502,c_369,"San Mateo Bridge (depth 11 ft), San Francisco Bay, California Current",,current
+37.6083,-122.182,t_354,"San Mateo Bridge (east end), San Francisco Bay, California",,tide
+37.5800,-122.253,t_355,"San Mateo Bridge (west end), San Francisco Bay, California",,tide
+37.5833,-122.25,c_370,"San Mateo Bridge, South San Francisco Bay, California Current",,current
+33.2667,-119.497,t_356,"San Nicolas Island, California",,tide
+35.6417,-121.188,t_357,"San Simeon, California",,tide
+46.2578,-123.9945,c_371,"Sand Island Tower, 0.9 nmi SE of (north channel) (depth 15 ft), Oregon Current",,current
+46.2528,-123.9908,c_372,"Sand Island Tower, 1 nmi SE of (midchannel) (depth 15 ft), Oregon Current",,current
+46.2555,-123.968,c_373,"Sand Island, SSE of (depth 12 ft), Oregon Current",,current
+48.7900,-122.708,t_358,"Sandy Point, Lummi Bay, Washington",,tide
+33.6300,-117.958,t_359,"Santa Ana River entrance (inside), California",,tide
+33.4833,-119.0333,t_360,"Santa Barbara Island, California",,tide
+34.4031,-119.6928,t_361,"Santa Barbara, California",,tide
+36.9583,-122.017,t_362,"Santa Cruz, Monterey Bay, California",,tide
+36.9667,-122.0167,t_363,"Santa Cruz, Monterey Bay, California (sub)",,tide
+34.0000,-118.5,t_364,"Santa Monica, Municipal Pier, California (2)",,tide
+34.0083,-118.5,t_365,"Santa Monica, Municipal Pier, San Pedro Channel, California",,tide
+37.8500,-122.4833,t_366,"Sausalito, California",,tide
+37.8650,-122.493,t_367,"Sausalito, Corps of Engineers Dock, San Francisco Bay, California",,tide
+37.8467,-122.477,t_368,"Sausalito, San Francisco Bay, California",,tide
+38.0533,-122.0495,c_374,"Seal Island, south of (depth 24 ft), Suisun Bay, California Current",,current
+37.6367,-122.383,t_369,"Seaplane Harbor, San Francisco Bay, California",,tide
+46.0017,-123.92,t_370,"Seaside, 12th Avenue bridge, Necanicum River, Oregon",,tide
+48.2633,-124.297,t_371,"Sekiu, Clallam Bay, Strait of Juan de Fuca, Washington",,tide
+48.2667,-124.3,t_372,"Sekiu, Washington",,tide
+38.0583,-122.243,t_373,"Selby, California",,tide
+48.0833,-123.05,t_375,"Sequim Bay Entrance, Washington",,tide
+48.0817,-123.043,t_376,"Sequim Bay entrance, Strait of Juan de Fuca, Washington",,tide
+48.5000,-122.7167,c_375,"Shannon Point, 2 mile W of, Washington Current",,current
+48.5105,-122.7305,c_376,"Shannon Point, 2.0 miles west of, Washington Current",,current
+48.5850,-122.928,t_377,"Shaw Island, Ferry Terminal, Harney Channel, San Juan Channel, Washington",,tide
+48.5850,-122.9283,t_378,"Shaw Island, Ferry Terminal, Harney Channel, Washington",,tide
+40.0250,-124.058,t_379,"Shelter Cove, California",,tide
+38.0587,-121.8,c_377,"Sherman Island (East), California Current",,current
+38.0587,-121.8042,c_378,"Sherman Island East, 0.2 mi north of (depth 14 ft), Sacramento River, California Current",,current
+48.5067,-122.677,t_380,"Ship Harbor, Fidalgo Island, Washington",,tide
+37.6833,-122.3666,c_379,"Sierra Point 1.3 mi ENE, South San Francisco Bay, California Current",,current
+37.6667,-122.2833,c_380,"Sierra Point 4.4 mi E, South San Francisco Bay, California Current",,current
+37.6780,-122.3175,c_381,"Sierra Point, 1.2 nmi east of (depth 18 ft), San Francisco Bay, California Current",,current
+37.6847,-122.3567,c_382,"Sierra Point, 1.3 mi ENE of, San Francisco Bay, California Current",,current
+37.6733,-122.295,c_383,"Sierra Point, 4.4 mi east of (depth 8 ft), San Francisco Bay, California Current",,current
+38.0481,-121.9225,c_384,"Simmons Point, 0.6 nmi ESE of (depth 6 ft), Suisun Bay, California Current",,current
+38.0645,-121.9217,c_385,"Simmons Pt., Chipps Is., 0.6 nmi ESE of (depth 12 ft), Suisun Bay, California Current",,current
+48.6028,-122.6487,c_386,"Sinclair Island Light, 0.6 mile SE of, Washington Current",,current
+48.6167,-122.65,c_387,"Sinclair Island, 1 mile NE of, Washington Current",,current
+48.6442,-122.6587,c_388,"Sinclair Island, 1.0 nmi NE of (depth 26 ft), Rosario Strait, Washington Current",,current
+43.3767,-124.297,t_381,"Sitka Dock, Coos Bay, Oregon",,tide
+44.0167,-124.13,t_382,"Siuslaw River entrance, Oregon",,tide
+48.3978,-122.5795,c_389,"Skagit Bay channel, SW of Hope Island (depth 10 ft), Washington Current",,current
+48.7495,-123.0608,c_390,"Skipjack Island, 1.5 mi northwest of (depth 15 ft), Washington Current",,current
+48.7500,-123.05,c_391,"Skipjack Island, 2 mile nne of, Washington Current",,current
+48.7667,-123.0167,c_392,"Skipjack Island, 2 miles NNE of, Washington Current",,current
+48.3000,-122.85,c_393,"Smith Island, 1.4 mi SSW of, Strait of Juan de Fuca, Washington Current",,current
+48.3167,-122.8,c_394,"Smith Island, 2 miles east of, Washington Current",,current
+48.2964,-122.7763,c_395,"Smith Island, 3.4 mi ESE of (depth 20 ft), Strait of Juan de Fuca, Washington Current",,current
+48.3000,-122.75,c_396,"Smith Island, 3.7 miles ESE of, Washington Current",,current
+48.3246,-122.9647,c_397,"Smith Island, 5.5 mi WNW of (depth 43 ft), Strait of Juan de Fuca, Washington Current",,current
+48.3167,-122.8366,t_383,"Smith Island, Alaska",,tide
+48.3167,-122.837,t_384,"Smith Island, Strait of Juan de Fuca, Washington",,tide
+48.3167,-122.8333,t_385,"Smith Island, Washington",,tide
+37.5017,-122.223,t_386,"Smith Slough, San Francisco Bay, California",,tide
+48.4000,-122.548,t_387,"Sneeoosh Point, Washington",,tide
+38.2767,-121.495,t_388,"Snodgrass Slough, Sacramento River, California",,tide
+38.1567,-122.407,t_389,"Sonoma Creek, San Pablo Bay, California",,tide
+37.5517,-122.162,t_390,"South Bay Wreck, San Francisco Bay, California",,tide
+44.6250,-124.043,t_391,"South Beach, Yaquina Bay and River, Oregon",,tide
+37.7500,-122.5333,c_398,"South Channel, California Current",,current
+48.4980,-123.1599,c_399,"South Haro Strait, south of Lime Kiln Light (depth 107 ft), Washington Current",,current
+32.6291,-117.1078,t_392,"South San Diego Bay, California",,tide
+37.6667,-122.39,t_393,"South San Francisco, San Francisco Bay, California",,tide
+40.7478,-124.2241,c_400,"South Spit, 0.1 nmi E of (depth 15 ft), Humboldt Bay, California Current",,current
+37.9162,-122.4223,c_401,"Southampton Shoal Channel, LB 6 (depth 15 ft), San Francisco Bay, California Current",,current
+37.8825,-122.3958,c_403,"Southampton Shoal Light, 0.2 mi E of (depth 10 ft), San Francisco Bay, California Current",,current
+44.6250,-124.0433,t_394,"Southbeach, Yaquina Bay and River, Oregon (sub)",,tide
+37.7000,-123,t_395,"Southeast Farallon Island, California",,tide
+48.6278,-123.1116,c_404,"Spieden Channel, north of Limestone Point (depth 47 ft), Washington Current",,current
+38.0667,-121.9,c_405,"Spoonbill Creek near Bridge, Suisun Bay, California Current",,current
+38.0588,-121.9047,c_406,"Spoonbill Creek, near bridge (depth 3 ft), Suisun Bay, California Current",,current
+48.6000,-123.0333,c_407,"Spring Passage, South entrance of, Washington Current",,current
+48.6115,-123.0341,c_408,"Spring Passage, south entrance (depth 13 ft), San Juan Channel, Washington Current",,current
+41.8167,-124.3333,c_409,"St. George Reef, California Current",,current
+38.0500,-121.95,c_410,"Stake Point .9 Mi NNW, Suisun Bay, California Current",,current
+38.0647,-121.9555,c_411,"Stake Point, 0.9 nmi NNW of (depth 4 ft), Suisun Bay, California Current",,current
+38.1833,-121.655,t_396,"Steamboat Slough, Snug Harbor Marina, Sacramento River, California",,tide
+37.9583,-121.29,t_397,"Stockton, San Joaquin River, California",,tide
+48.9389,-123.1651,c_412,"Strait of Georgia, 4.5 nmi SW of Point Roberts (depth 31 ft), Washington Current",,current
+48.4500,-124.5838,c_413,"Strait of Juan de Fuca entrance (depth 89 ft), Washington Current",,current
+48.5650,-122.722,t_398,"Strawberry Bay, Cypress Island, Washington",,tide
+48.5667,-122.75,c_414,"Strawberry Island, 0.8 mile W of, Washington Current",,current
+48.5612,-122.7542,c_415,"Strawberry Island, 0.8 mile west of, Washington Current",,current
+48.5610,-122.7543,c_416,"Strawberry Island, west of (depth 33 ft), Rosario Strait, Washington Current",,current
+38.2367,-122.03,t_399,"Suisun City, Suisun Slough, Suisun Bay, California",,tide
+38.0888,-122.0072,c_417,"Suisun Cutoff (depth 24 ft), Suisun Bay, California Current",,current
+38.1283,-122.073,t_401,"Suisun Slough entrance, Suisun Bay, California",,tide
+48.2833,-122.728,t_402,"Sunset Beach, Whidbey Island, Strait of Juan de Fuca, Washington",,tide
+32.6450,-117.1228,c_419,"Sweetwater Channel, southwest of (depth 14 ft), San Diego Bay, California Current",,current
+48.4667,-122.5167,t_403,"Swinomish Channel ent., Padilla Bay, Washington",,tide
+48.4583,-122.513,t_404,"Swinomish Channel entrance, Padilla Bay, Washington",,tide
+40.7000,-124.2833,c_420,"Table Bluff Light, California Current",,current
+44.9267,-124.013,t_405,"Taft, Siletz Bay, Oregon",,tide
+47.3482,-124.2848,t_406,"Taholah, Washington",,tide
+46.3700,-124.005,t_407,"Tarlatt Slough, Willapa Bay, Washington",,tide
+48.3917,-124.737,t_408,"Tatoosh Island, Cape Flattery, Strait of Juan de Fuca, Washington",,tide
+48.4433,-122.805,t_409,"Telegraph Bay, Washington",,tide
+38.1100,-121.498,t_410,"Terminous, South Fork, Mokelumne River, California",,tide
+48.5274,-122.804,c_421,"Thatcher Pass (depth 28 ft), Rosario Strait, Washington Current",,current
+48.5333,-122.8,t_411,"Thatcher Pass, Washington",,tide
+48.5275,-122.803,c_422,"Thatcher Pass, Washington Current",,current
+38.0867,-121.685,t_412,"Threemile Slough entrance, San Joaquin River, California",,tide
+38.1067,-121.7,t_413,"Threemile Slough, Sacramento River, California",,tide
+36.8333,-121.745,t_414,"Tidal Creek, Elkhorn Slough, Monterey Bay, Port San Luis, California",,tide
+48.5867,-122.748,t_415,"Tide Point, Cypress Island, Washington",,tide
+45.5622,-123.9383,c_423,"Tillamook Bay entrance, Oregon Current",,current
+45.4600,-123.845,t_416,"Tillamook, Hoquarten Slough, Tillamook Bay, Oregon",,tide
+48.7783,-122.9408,c_424,"Toe Point, Patos Island, 0.5 mile S of, Washington Current",,current
+48.7667,-122.9333,c_425,"Toe Point, Patos Island, 0.5 mile South of, Washington Current",,current
+46.7075,-123.9669,t_417,"Toke Point, Willapa Bay, Washington",,tide
+44.6167,-123.9333,t_418,"Toledo, Yaquina Bay and River, Oregon",,tide
+44.6167,-123.937,t_419,"Toledo, Yaquina River, Oregon",,tide
+38.2283,-122.977,t_420,"Tomales Bay entrance, California",,tide
+48.6122,-122.7022,c_426,"Towhead Island, 0.4 mi east of, Rosario Strait, Washington Current",,current
+48.6000,-122.7,c_427,"Towhead Island, 0.4 mile East of, Washington Current",,current
+37.8167,-122.35,c_428,"Treasure Island .3 mi E, San Francisco Bay, California Current",,current
+37.8333,-122.3666,c_429,"Treasure Island .5 mi N, San Francisco Bay, California Current",,current
+37.8217,-122.3783,c_430,"Treasure Island, 0.2 mi west of (depth 8 ft), San Francisco Bay, California Current",,current
+37.8267,-122.355,c_431,"Treasure Island, 0.3 mi east of (depth 8 ft), San Francisco Bay, California Current",,current
+37.8405,-122.3683,c_432,"Treasure Island, 0.5 mi north of (depth 8 ft), San Francisco Bay, California Current",,current
+37.8373,-122.3872,c_433,"Treasure Island, 0.78 nmi NW of (depth 3 ft), San Francisco Bay, California Current",,current
+37.8217,-122.3917,c_434,"Treasure Island, 0.8 mi west of (depth 8 ft), San Francisco Bay, California Current",,current
+37.8250,-122.3463,c_435,"Treasure Island, 0.85 nmi east of (depth 11 ft), San Francisco Bay, California Current",,current
+41.0567,-124.147,t_421,"Trinidad Harbor, California",,tide
+41.0500,-124.1667,c_436,"Trinidad Head, California Current",,current
+49.0000,-123.1333,t_422,"Tsawwassen, British Columbia",,tide
+48.1711,-124.7369,t_423,"Tskawahyah Island, Cape Alava, Washington",,tide
+48.7833,-123.1,t_424,"Tumbo Channel, British Columbia",,tide
+48.6912,-123.245,c_437,"Turn Point, Boundary Pass (depth 116 ft), Washington Current",,current
+48.6833,-123.2333,t_425,"Turn Point, Stuart Island, Haro Strait, Washington",,tide
+48.5567,-122.9983,c_438,"Turn Rock Light, 1.9 miles northwest of, Washington Current",,current
+48.5500,-122.9833,c_439,"Turn Rock, 1.9 mile NW of, Washington Current",,current
+48.4450,-122.555,t_426,"Turner Bay, Similk Bay, Washington",,tide
+48.1750,-123.95,t_427,"Twin Rivers, Strait of Juan de Fuca, Washington",,tide
+43.6783,-124.1933,c_440,"Umpqua River entrance, Oregon Current",,current
+37.4350,-122.007,t_428,"Upper Guadalupe Slough, San Francisco Bay, California",,tide
+38.2283,-122.613,t_429,"Upper drawbridge, Petaluma River, San Pablo Bay, California",,tide
+48.5538,-122.9226,c_441,"Upright Channel narrows (depth 24 ft), San Juan Channel, Washington Current",,current
+48.5717,-122.885,t_430,"Upright Head, Lopez Island, Washington",,tide
+38.1117,-122.273,t_431,"Vallejo, Mare Island Strait, California",,tide
+38.1000,-122.2666,t_432,"Vallejo, Mare Island Strait, Carquinez Strait, California",,tide
+34.2667,-119.283,t_433,"Ventura, California",,tide
+48.7167,-122.708,t_434,"Village Point, Lummi Island, Washington",,tide
+48.1667,-122.9667,c_442,"Violet Point, 3.2 miles northwest of, Washington Current",,current
+48.1614,-122.9681,c_443,"Violet Point, 3.7 mi NW of Protection Island (depth 17 ft), Washington Current",,current
+48.1833,-122.9167,c_444,"Violet Point, 3.7 miles N of, Washington Current",,current
+37.9833,-121.3833,c_445,"Vulcan Island .5 mi E, San Joaquin River, California Current",,current
+37.9853,-121.3908,c_446,"Vulcan Island, 0.5 mi east of (depth 17 ft), San Joaquin River, California Current",,current
+44.4344,-124.0581,t_435,"Waldport, Alsea Bay, Oregon",,tide
+48.7042,-123.1087,c_447,"Waldron Island, 1.7 miles west of, Washington Current",,current
+48.7042,-123.1048,c_448,"Waldron Island, 1.7 nmi west of (depth 27 ft), Washington Current",,current
+48.6868,-123.0376,t_436,"Waldron Island, Haro Strait, Washington",,tide
+38.0500,-121.4969,t_437,"Wards Island, Little Connection Slough, San Joaquin River, California",,tide
+46.1650,-123.92,t_438,"Warrenton, Skipanon River, Columbia River, Oregon",,tide
+46.1667,-123.9167,t_439,"Warrenton, Skipanon River, Oregon",,tide
+48.5922,-122.9895,c_449,"Wasp Passage Light, 0.5 mile WSW of, Washington Current",,current
+48.5925,-122.9896,c_450,"Wasp Passage narrows (depth 11 ft), San Juan Channel, Washington Current",,current
+42.4333,-124.4167,t_440,"Wedderburn, Rogue River, Oregon",,tide
+44.5933,-124.008,t_441,"Weiser Point, Yaquina River, Oregon",,tide
+38.0167,-121.7667,c_451,"West Island Lt .5 mi SE, San Joaquin River, California Current",,current
+38.0212,-121.762,c_452,"West Island Lt., 0.5 mi SE of (depth 5 ft), San Joaquin River, California Current",,current
+38.0249,-121.79,c_453,"West Island, north of (depth 3 ft), San Joaquin River, California Current",,current
+37.5050,-122.192,t_442,"West Point Slough, San Francisco Bay, California",,tide
+38.1320,-122.058,c_454,"West entrance (depth 6 ft), Montezuma Slough, Suisun Bay, California Current",,current
+39.6333,-123.783,t_443,"Westport, California",,tide
+46.9043,-124.1051,t_444,"Westport, Point Chehalis, Grays Harbor, Washington",,tide
+46.9142,-124.1083,c_455,"Westport, channel 0.4 mi NE of, Grays Harbor, Washington Current",,current
+33.0050,-118.557,t_445,"Wilson Cove, San Clemente Island, California",,tide
+38.0667,-122.3333,c_456,"Wilson Point 3.9 mi NNW, San Pablo Bay, California Current",,current
+38.0375,-122.1505,c_457,"Wilson Point, 1.55 nmi north of (depth 10 ft), San Pablo Bay, California Current",,current
+38.0745,-122.3425,c_458,"Wilson Point, 3.90 nmi NNW of (depth 4 ft), San Pablo Bay, California Current",,current
+44.5833,-124,t_446,"Winant, Yaquina Bay and River, Oregon",,tide
+38.2100,-122.427,t_447,"Wingo, Sonoma Creek, San Pablo Bay, California",,tide
+44.6167,-124.0667,c_459,"Yaquina Bay entrance, Oregon Current",,current
+44.6233,-124.057,c_460,"Yaquina Bay, Highway Bridge, Oregon Current",,current
+44.6005,-123.9417,c_461,"Yaquina River, 1 mi below Toledo, Yaquina Bay, Oregon Current",,current
+44.6267,-124.055,t_448,"Yaquina USCG station, Newport, Yaquina Bay, Oregon",,tide
+44.6000,-124.0167,t_449,"Yaquina, Yaquina Bay and River, Oregon",,tide
+44.6020,-124.0113,c_462,"Yaquina, Yaquina River, Yaquina Bay, Oregon Current",,current
+37.8333,-122.45,c_463,"Yellow Bluff .8 mi E, San Francisco Bay, California Current",,current
+37.8350,-122.455,c_464,"Yellow Bluff, 0.8 mi east of (depth 8 ft), San Francisco Bay, California Current",,current
+37.8455,-122.4572,c_465,"Yellow Bluff, 0.8 nmi NE of (depth 19 ft), San Francisco Bay, California Current",,current
+37.8000,-122.3833,c_466,"Yerba Buena Island W of, San Francisco Bay, California Current",,current
+37.8042,-122.3572,c_467,"Yerba Buena Island, 0.3 nmi SE of (depth 23 ft), San Francisco Bay, California Current",,current
+37.8100,-122.36,t_450,"Yerba Buena Island, San Francisco Bay, California",,tide
+37.8100,-122.3831,c_468,"Yerba Buena Island, west of (midchannel) (depth 12 ft), California Current",,current
+48.4167,-122.6167,t_451,"Yokeko Point, British Columbia",,tide
+48.4127,-122.6132,c_469,"Yokeko Point, Deception Pass (depth 7 ft), Rosario Strait, Washington Current",,current
+48.4133,-122.615,t_452,"Yokeko Point, Deception Pass, Washington",,tide
+46.1778,-123.8683,c_470,"Youngs Bay Bridge (depth 9 ft), Oregon Current",,current
+46.1863,-123.8878,c_471,"Youngs Bay Entrance, Oregon Current (17d)",,current
+37.83922,-122.29532,x_1,East Bay Carpool,,meeting
+38.23412,-122.61899,x_2,North Bay Carpool,,meeting
+37.429186,-121.981353,x_3,Alviso,,launch
+41.759719,-124.222431,x_4,Crescent City,,launch
+43.148475,-124.4015083,x_5,"Brandon, Oregon",Brandon,launch
+43.4157333,-124.2797722,x_6,"North Bend, Oregon",North Bend,launch
+41.801970,-124.054516,x_7,Myrtle Creek,,launch
+37.848056,-122.48,x_8,Swede’s Beach,,destination
+37.859722,-122.484722,x_9,Bar Bocce,,destination
+37.86,-122.485472,x_10,Turney Street Public Boat Ramp,Turney St,launch
+37.896806,-122.525306,x_11,"Bayfront Park, Mill Valley (AKA Dog Park)",Bayfront Park,launch
+37.8825,-122.503889,x_12,"Brickyard Park, Strawberry",Brickyard Park,launch
+37.895444,-122.503389,x_13,"Harbor Cove Canoe Dock, Strawberry",Harbor Cove,launch
+37.944667,-122.528889,x_14,Bon Aire Landing on Corte Madera Creek,Bon Aire Landing,launch
+37.94575,-122.483861,x_15,Starkweather Shoreline Park,Starkweather Park,launch
+37.965944,-122.5135,x_16,"Pier 15 Restaurant and Bar, San Rafael",Pier 15 Bar,destination
+37.882083,-122.516389,x_17,Highway 101 Bridge (SE side),Hwy 101 Bridge,launch
+  41.80268,-124.08616,x_18,Jedediah Smith State Park,Jedediah Smith SP,launch
+  41.82246,-124.10963,x_19,Smith River access,,launch
+40.7673,-124.2241,x_20,Samoa Boat Ramp,,launch
+40.7256,-124.2236,x_21,Fields Landing Boat Ramp,Fields Landing,launch
+39.3610,-123.81769,x_22,Caspar Beach,,launch
+39.32906,-123.80604,x_23,Russian Gulch,,launch
+39.30239,-123.78757,x_24,Big River,,launch
+39.27331,-123.79168,x_25,Van Damme State Park,Van Damme SP,launch
+39.08573,-123.48509,x_26,"Navarro River, Hendy Woods",Hendy Woods,launch
+39.17804,-123.69443,x_27,"Navarro River, Dimmick Memorial Grove",Dimmick Grove,launch
+39.2266,-123.7667,x_28,"Little River, Albion",Little River,launch
+39.2312,-123.7613,x_29,Albion River,,launch
+39.18972,-123.75866,x_30,Navarro State Beach,,launch
+38.040167,-121.960556,x_31,McAvoy Yacht Harbor,,launch
+38.039667,-121.963194,x_32,Bay Point Regional Shoreline Park,Bay Point Park,launch
+38.012057,-121.728771,x_34,Big Break Regional Shoreline Park,Big Break Park,launch
+38.03675,-122.274333,x_35,"Rodeo, Lone Tree Beach Park",Lone Tree Beach,destination
+38.01025,-122.363611,x_36,Point Pinole Regional Shoreline Park,Point Pinole Park,destination
+39.12888,-123.71824,x_37,Elk,,launch
+38.9937,-123.435,x_38,Rancheria Creek,,launch
+38.51207,-123.24314,x_39,Fort Ross,,launch
+38.54709,-123.29748,x_40,Stillwater Cove,,launch
+38.56741,-123.33040,x_41,Salt Point State Park,Salt Point SP,launch
+38.58157,-123.33580,x_42,Stump Beach,,launch
+38.77225,-123.07492,x_43,"Yorti Creek Recreational Area, Lake Sonoma",Yorti Creek,launch
+38.71494,-123.01834,x_44,Lake Sonoma,,launch
+38.70769,-123.01858,x_45,Lake Sonoma Marina,,launch
+38.80892,-123.00699,x_46,Cloverdale,,launch
+38.71169,-122.89593,x_47,Geyserville,,launch
+38.659321,-122.83303,x_48,"Healdsburg, Alexander Valley Campground",Alexander Valley Campground,launch
+38.60440,-122.85960,x_49,"Healdsburg, Veterans Memorial Beach",Veterans Memorial Beach,launch
+38.50008,-122.89995,x_50,"Forestville, Steelhead Beach",Steelhead Beach,launch
+38.50007,-122.99809,x_51,"Guerneville, Johnson's Beach",Johnson's Beach,launch
+38.46681,-123.00986,x_52,Monte Rio Beach,,launch
+38.46357,-123.05117,x_53,"Casini Ranch Campground, Duncans Mills",Casini Ranch Campground,launch
+38.44079,-123.12522,x_54,"Goat Rock, Jenner",Goat Rock,launch
+38.4516,-122.6597,x_55,"Spring Lake County Park, Santa Rosa",Spring Lake Park,launch
+38.4852,-122.7171,x_56,"Fountaingrove Lake, Nagasawa Community Park",Nagasawa Park,launch
+38.31345,-123.0476,x_57,"Bodega Bay, Doran Beach and Campground",Doran Beach,launch
+38.32299,-123.054922,x_58,Westside Regional Park Campground in Bodega Harbor.,Westside Regional,launch
+38.30502,-123.05717,x_59,"Bodega Bay, Campbell Cove",Campbell Cove,launch
+38.23169,-122.61465,x_60,Petaluma Municipal Marina,Petaluma Marina,launch
+38.23433,-122.6396,x_61,Petaluma River Turning Basin,Petaluma Turning Basin,launch
+38.19756,-122.54751,x_62,Gilardi's Lakeville Marina,Gilardi's Marina,launch
+38.11416,-122.50623,x_63,Black Point Boat Launch,Black Point,launch
+38.1275,-122.47143,x_64,Sears Point Boat Launch,Sears Point,launch
+38.15608,-122.40622,x_65,Sonoma Creek at the Hwy 37 Bridge,Sonoma Creek,launch
+38.13599,-122.34426,x_66,Cullinan Ranch,,launch
+38.4834,-122.3576,x_67,Lake Hennessey,,launch
+38.201867,-122.304567,x_68,"Green Island Road, American Canyon",Green Island Road,launch
+38.226111,-122.307833,x_69,Cuttings Wharf,,launch
+38.286972,-122.284333,x_70,"Riverside Dr, Napa",Riverside Dr,launch
+38.297511,-122.283452,x_71,Napa Dowtown Dock,,destination
+38.328056,-122.283306,x_72,"Trancas Crossing Park, Napa",Trancas Crossing Park,launch
+38.20637,-122.37544,x_73,Hudeman Slough,,launch
+38.265564,-122.283719,x_74,"Kennedy Park, Napa",Kennedy Park,launch
+37.833628,-122.474356,x_75,"Horseshoe Cove, Presidio Yacht Club",Presidio Yacht Club,launch
+37.833576,-122.477491,x_76,"Horseshoe Cove, gravel ramp",Horseshoe Cove,launch
+37.854467,-122.437183,x_77,"Angel Island, Perles Beach",Perles Beach,destination
+37.855333,-122.427983,x_78,"Angel Island, Pallet Beach",Pallet Beach,destination
+37.855667,-122.426094,x_79,"Angel Island, Casey Walker Memorial Bench",Casey Walker Bench,destination
+37.85305,-122.419867,x_80,"Angel Island, Broken Windmill Beach",Broken Windmill Beach,destination
+37.859217,-122.4209,x_81,"Angel Island, Quarry Beach",Quarry Beach,destination
+37.863666,-122.421616,x_82,"Angel Island, East Garrison",East Garrison,destination
+37.85921,-122.57632,x_83,Muir Beach,,destination
+37.878633,-122.613350,x_84,"Mill Valley, Lone Tree Beach",Lone Tree Beach,destination
+37.90457,-122.68614,x_85,Bolinas,,launch
+37.86165,-122.48799,x_86,Dunphy Park,,launch
+37.86379,-122.48937,x_87,Schoonmaker Marina,Schoonmaker,launch
+37.894157,-122.45742,x_88,Paradise Beach,,launch
+37.94144,-122.48236,x_90,San Quentin Beach,,launch
+37.94266,-122.5017,x_91,"Corte Madera Creek, Windsurfer Beach",Corte Madera Creek,launch
+37.972729,-122.48419,x_92,"San Rafael, Loch Lomond Marina",Loch Lomond,launch
+38.00378,-122.46731,x_93,"San Rafael, Bull Head Flat",Bull Head Flat,launch
+38.00047,-122.46102,x_94,"San Rafael, China Camp State Park",China Camp SP,launch
+37.9922,-122.45189,x_95,"McNears Beach, Marin County Park",McNears Beach,launch
+37.861284,-122.486152,x_96,"Foot of Locust, Sausalito",Foot of Locust,launch
+37.968900,-122.518222,x_97,"San Rafael Yacht Club, San Rafael",San Rafael Yacht Club,launch
+37.968608,-122.512813,x_98,101 Surf Sports (San Rafael),101 Surf Sports,launch
+38.01815,-122.52293,x_99,"San Rafael, John McInnis County Park",John McInnis Park,launch
+38.015937,-122.503349,x_100,"Buck's Landing, San Rafael",Buck's Landing,launch
+38.10979,-122.86512,x_101,"Tomales Bay, Chicken Ranch Beach",Chicken Ranch,launch
+38.19984,-122.92163,x_102,"Tomales Bay, Nick's Cove",Nick's Cove,launch
+38.249926,-122.966881,x_103,Dillon Beach,,launch
+38.2319,-122.9682,x_104,Lawson's Landing,,launch
+38.14092,-122.87395,x_105,"Tomales Bay, Marconi Cove",Marconi Cove,launch
+38.13241,-122.8932,x_106,"Tomales Bay, Heart's Desire Beach",Heart's Desire,launch
+38.08278,-122.93283,x_107,"Drakes Estero, (formerly Johnson's Oyster Farm)",Drakes Estero,launch
+38.0252,-122.8834,x_108,"Drakes Bay, Limantour Beach",Limantour Beach,launch
+38.026826,-122.96133,x_109,"Drakes Bay, Drakes Beach",Drakes Beach,launch
+38.30953,-122.93593,x_110,Estero Americano,,launch
+37.80646,-122.45131,x_111,"San Francisco, Crissy Field",Crissy Field,launch
+37.806594,-122.442302,x_112,San Francisco Marina- East End,SF Marina East End,launch
+37.80757,-122.42215,x_113,"San Francisco, Aquatic Park",Aquatic Park,launch
+37.808682,-122.409051,x_114,"San Francisco, Pier 39",Pier 39,launch
+37.83226,-122.37314,x_115,"Treasure Island, North Ramp",North Ramp,launch
+37.771237,-122.386153,x_116,"San Francisco, Pier 52 Boat Launch",Pier 52,launch
+37.7468,-122.38867,x_117,"San Francisco, Islais Creek",Islais Creek,launch
+37.73509,-122.37506,x_118,"San Francisco, India Basin Shoreline Park",India Basin,launch
+37.70901,-122.38204,x_119,"Candlestick Point State Recreation Area, San Francisco",Candlestick Pt,launch
+37.673167,-122.381167,x_120,Brisbane Marina,,launch
+37.66399,-122.38348,x_121,Oyster Point Park in the Oyster Point Marina,Oyster Point Park,launch
+37.58995,-122.32521,x_122,Coyote Point Beach,Coyote Pt Beach,launch
+37.59086,-122.31839,x_123,Coyote Point Marina,Coyote Pt Marina,launch
+37.5715,-122.27874,x_124,"East 3rd Avenue (AKA Baywinds Park), Foster City",Baywinds Park,launch
+37.56415,-122.24935,x_125,"Foster City, Beaches on the Bay",Beaches on the Bay,launch
+37.575806,-122.300417,x_126,"Seal Point Park, San Mateo",Seal Pt Park,launch
+37.575028,-122.305778,x_127,Ryder Park,,launch
+37.55568,-122.25972,x_128,Foster City Lagoon,,launch
+37.52867,-122.25852,x_129,Redwood Shores Lagoon,,launch
+37.50237,-122.21461,x_130,Redwood City Municipal Marina,Municipal Marina,launch
+37.51628,-122.20303,x_131,Corkscrew Slough/Westpoint Slough Entrance,Corkscrew Slough West,launch
+37.509066,-122.21113,x_132,Redwood Creek off Herkner Rd.,Redwood Creek,launch
+37.45751,-122.10116,x_134,Palo Alto Baylands Launch Ramp,Baylands Ramp,launch
+37.489889,-122.177611,x_135,Westpoint Slough - Bedwell Bayfront Park,Westpoint Slough,launch
+37.96331,-122.41984,x_136,Pt. San Pablo Yacht Harbor,Point SPYH,launch
+37.92638,-122.39218,x_137,"Richmond, Western Drive Pocket Beach",Pocket Beach,launch
+37.92068,-122.3865,x_138,"Richmond, Keller Beach",Keller Beach,destination
+37.941628,-122.410689,x_139,"Point Molate Beach Park, Richmond",Point Molate Park,launch
+37.90959,-122.38775,x_140,"Richmond, Ferry Point",Ferry Pt,launch
+37.924737,-122.375887,x_141,"Richmond, Boat Ramp Street",Boat Ramp Street,launch
+37.9135,-122.35433,x_142,Richmond Municipal Marina,Richmond Marina,launch
+37.91421,-122.34758,x_143,"Richmond, Marina Bay Park & Rosie the Riveter WWII National Memorial",Marina Bay Park,launch
+37.90767,-122.35027,x_144,"Richmond, Vincent Park-South",Vincent Park S,launch
+37.90787,-122.35187,x_145,"Richmond, Vincent Park-West",Vincent Park W,launch
+37.90766,-122.34466,x_146,"Shimada Park, Richmond",Shimada Park,launch
+37.89896,-122.3253,x_147,Point Isabel Regional Shoreline,Point Isabel,launch
+37.88815,-122.31611,x_148,Albany Beach,,launch
+37.877361,-122.310056,x_149,Tom Bates Regional Sports Complex,Tom Bates Sports,launch
+37.868611,-122.3175,x_150,Berkeley Marina Launch Ramp,Berkeley Marina Ramp,launch
+37.845944,-122.300278,x_151,"Point Emery, Emeryville",Point Emery,launch
+37.863,-122.31226,x_152,Berkeley South Sailing Basin,South Sailing Basin,launch
+37.83834,-122.31307,x_153,Emeryville Marina,,launch
+37.80153,-122.32442,x_154,Oakland Middle Harbor Shoreline Park,Middle Harbor Park S,launch
+37.79413,-122.27628,x_155,"California Canoe and Kayak, Oakland",C.C.K.,launch
+37.79437,-122.27768,x_156,"Jack London Square Public Dock, Oakland",Jack London Sq,launch
+37.79047,-122.26601,x_157,Estuary Park (formerly JLAC),Estuary Park,launch
+37.806715,-122.322314,x_158,Middle Harbor Park,Middle Harbor Park N,launch
+37.761392,-122.223161,x_159,Tidewater Boating Center,,launch
+37.743969,-122.206333,x_160,Arrowhead Marsh Kayak Launch at Elmhurst Creek and Damon Slough,Arrowhead Marsh,launch
+37.741583,-122.215972,x_161,"Shoreline Center, MLK Jr. Regional Shoreline",Shoreline Center,launch
+37.77822,-122.25145,x_162,Grand Street Boat Ramp,Grand Street Ramp,launch
+37.766186,-122.271738,x_163,Robert Crown Memorial State Beach,Robert Crown Beach,launch
+37.76947,-122.29073,x_164,"Alameda, Encinal Boat Ramp",Encinal Ramp,launch
+37.76311,-122.27285,x_165,Robert Crown Memorial State Beach (Crown Beach),Crown Beach,launch
+37.73899,-122.21392,x_166,"Doolittle Drive, Airport Channel Launch Ramp",Airport Channel Ramp,launch
+37.69547,-122.18763,x_167,San Leandro Marina,,launch
+37.67209,-122.15964,x_168,San Lorenzo Creek,,launch
+37.61874,-122.124028,x_169,Eden Landing Ecological Reserve,Eden Landing,launch
+37.51111,-122.11071,x_170,Dumbarton Bridge East Fishing Pier,Dumbarton Bridge E. Pier,launch
+37.52877,-122.06328,x_171,Newark Slough,,launch
+37.528611,-122.062944,x_172,Jarvis Landing in Newark Slough,Jarvis Landing,launch
+37.58628,-121.70362,x_173,"Livermore, Lake Del Valle",Lake Del Valle,launch
+38.01287,-122.29538,x_174,"Pinole, Bay Front Park",Bay Front Park,launch
+38.096571,-122.25723,x_175,"Vallejo, formerly Brinkman's Marina",Brinkman's Marina,launch
+38.06812,-122.23122,x_176,"Vallejo, California Maritime Academy",California Maritime Academy,launch
+38.0621,-122.17904,x_177,"Benicia, Matthew Turner Shipyard Park",Matthew Turner Shipyard,launch
+38.05813,-122.17441,x_178,"Benicia, West 9th Street boat ramp",West 9th St Ramp,launch
+38.04418,-122.16269,x_179,"Benicia, First Street",First St,launch
+38.04468,-122.1535,x_180,Benicia Marina,,launch
+38.05387,-122.20192,x_181,Carquinez Strait Regional Shoreline (Eckley Pier),Eckley Pier,launch
+38.04777,-122.18341,x_182,Port Costa,,launch
+38.02592,-122.13734,x_183,Martinez Marina,,launch
+38.18836,-121.97616,x_184,Belden's Landing,,launch
+38.23289,-122.03868,x_185,Suisun City Public Boat Ramp,Suisun City Boat Ramp,launch
+38.23862,-122.039185,x_186,Downtown Suisun City,,launch
+38.035623,-121.882983,x_187,Pittsburg Marina,,launch
+38.018906,-121.818153,x_188,Antioch Marina,,launch
+38.017236,-121.802911,x_189,Antioch Historical Ramp,Antioch Ramp,launch
+38.0563,-121.78569,x_190,"Sherman Island, Sacramento County Regional Park",Sherman Island,launch
+38.25100,-121.50656,x_191,Delta Meadows State Park,Delta Meadows SP,launch
+38.26586,-121.44057,x_192,Cosumnes River Preserve,,launch
+39.036668,-120.12169,x_193,"Lake Tahoe, Meeks Bay",Meeks Bay,launch
+38.94331,-120.06898,x_194,"Lake Tahoe, Baldwin Beach",Baldwin Beach,launch
+37.59676,-122.50513,x_195,"Pacifica, Linda Mar Beach",Linda Mar Beach,launch
+37.5242,-122.51777,x_196,Fitzgerald Marine Reserve,Fitzgerald Reserve,launch
+37.49566,-122.49509,x_197,Pillar Point Portage,,launch
+37.502071,-122.492706,x_198,"Pillar Point Harbor, far west end",Pillar Pt Harbor W,launch
+37.502955,-122.478059,x_199,Half Moon Bay Marina/Pillar Point Harbor,Half Moon Bay Marina,launch
+37.495830,-122.462784,x_200,"Half Moon Bay, Miramar Beach",Miramar Beach,launch
+37.18269,-122.39257,x_201,Pigeon Point Lighthouse,Pigeon Pt Lighthouse,launch
+37.14582,-122.34689,x_202,"Franklin Point, Whitehouse Creek Beach",Franklin Pt,launch
+37.02455,-122.21644,x_203,Davenport Landing,,launch
+36.963875,-122.001098,x_204,Santa Cruz Harbor Launch Ramp,Santa Cruz Harbor,launch
+37.29661,-122.0789,x_205,Stevens Creek Reservoir,,launch
+37.11090,-122.06500,x_206,Loch Lomond Reservoir,,launch
+36.83989,-121.74362,x_207,"Elkhorn Slough, Kirby Park",Elkhorn Slough,launch
+36.81248,-121.78695,x_208,Moss Landing Harbor,Moss Landing,launch
+36.60134,-121.88758,x_209,Monterey Bay Kayaks,,launch
+36.604304,-121.869911,x_210,Monterey Bay State Beach,,launch
+36.62493,-121.91632,x_211,"Pacific Grove, Lovers Point",Lovers Pt,launch
+36.63533,-121.92673,x_212,"Pacific Grove, Coral Street Beach",Coral St Beach,launch
+36.56595,-121.94181,x_213,"Carmel, Stillwater Cove",Stillwater Cove,launch
+36.52268,-121.928,x_214,"Carmel, Monastery Beach",Monastery Beach,launch
+36.52026,-121.94051,x_215,"Point Lobos State Reserve, Whalers Cove",Point Lobos Reserve,launch
+36.48127,-121.93829,x_216,Malpaso Creek,,launch
+36.28082,-121.85906,x_217,Andrew Molera State Park,Andrew Molera SP,launch
+36.23799,-121.81617,x_218,Pfeiffer Beach,,launch
+36.419044,-121.913424,x_219,Garapata State Beach,,launch
+36.00181,-121.50529,x_220,Mill Creek,,launch
+35.64317,-121.18853,x_221,"San Simeon, Hearst State Memorial Beach",Hearst State Beach,launch
+39.30330,-123.80464,x_222,"Mendocino, Beach",,destination
+38.03573,-122.92655,x_223,Mouth of Drake's Estero,,destination
+38.17384,-122.92347,x_224,Tomales Beach,,destination
+38.16240,-122.91568,x_225,Marshall Beach,,destination
+37.82679,-122.49016,x_226,Kirby Cove,,destination
+37.81546,-122.52933,x_228,Point Bonita Arch,,destination
+37.82494,-122.53436,x_231,Rodeo Cove (South End),Rodeo Cove S.,destination
+37.92986,-122.43114,x_232,Red Rock Island,Red Rock,destination
+37.96790,-122.39694,x_233,Riviera de Garbage,,destination
+37.85984,-122.44377,x_234,"Angel Island, West Garrison",West Garrison,destination
+37.86248,-122.44048,x_235,"Angel Island, Kayak Camp",Kayak Camp,destination
+37.86663,-122.43551,x_236,"Angel Island, Ayala Cove",Ayala Cove,destination
+37.87034,-122.42649,x_237,"Angel Island, China Cove",China Cove,destination
+37.8728,-122.45637,x_238,"Sam's Anchor Cafe, Tiburon",Sam's Cafe,destination
+38.06841,-122.2139,x_239,Glen Cove Marina,Glen Cove,destination
+37.79767,-122.39446,x_240,"San Francisco, Pier 1.5",Pier 1.5,destination
+37.763598,-122.387044,x_241,"San Francisco, Crane Cove Park",Crane Cove,destination
+37.771778,-122.397028,x_242,Mission Creek Kayak Launch Dock,Mission Creek Launch,launch
+37.781861,-122.387639,x_243,South Beach Harbor (AKA Pier 40),South Beach Harbor,launch
+37.49441,-122.49769,x_244,Pillar Point Reef,,destination
+37.8366,-122.47155,x_245,Yellow Bluff,,destination
+38.95416,-120.10065,x_246,"Lake Tahoe, Fannette Island, Emerald Bay",Fannette Island,destination
+37.761575,-122.422758,x_247,The Women's Building (monthly BASK General Meetings),,meeting
+38.068224,-122.20742,x_248,Glen Cove Waterfront Park in Vallejo,Glen Cove Park,launch
+36.967591,-122.003554,x_249,"Santa Cruz harbor kayak launch, F",Kayak Launch F,launch
+37.762635,-122.426341,x_250,Mission High Parking Lot,,meeting
+37.764925,-122.419904,x_251,16th St. Mission BART Station,,meeting
+38.299726,-122.284055,x_253,Jim Hench Memorial Kayak Launch,Jim Hench Launch,launch
+36.964801,-122.00333,x_254,Santa Cruz Harbor Kayak Launch A,Kayak Launch A,launch
+37.511719,-122.195091,x_255,"Westpoint Marina, Redwood City",Westpoint Marina,launch
+37.806458,-122.447484,x_258,San Francisco Marina - West End,SF Marina West End,launch
+37.791946,-122.483926,x_259,Baker Beach,,launch
+38.068692,-122.184206,x_260,Benicia State Recreation Area,Benicia Recreation,launch
+37.787877,-122.49165,x_264,"China Beach, San Francisco",China Beach,launch
+37.079975,-122.265437,x_265,Greyhound Rock County Park,Greyhound Rock Park,launch
+37.096756,-122.280334,x_266,Waddell Creek State Beach,Waddell Creek Beach,launch
+37.940828,-119.019967,x_267,"Mono Lake, Navy Beach",Mono Lake,launch
+38.047384,-122.12818,x_268,Benicia/Martinez Bridge,,launch
+38.003076,-119.037133,x_269,Paoha Island in Mono Lake,Paoha Island,launch
+38.233803,-122.632755,x_270,"River Heritage Center, Petaluma",River Heritage,destination
+38.139777,-121.694913,x_271,"Sandy Beach Park, Rio Vista",Sandy Beach Park,launch
+38.154568,-121.690053,x_272,Rio Vista Municipal Boat Launch,Rio Vista Launch,launch
+38.492974,-122.028509,x_273,Lake Solano County Park and Campground,Lake Solano Park,launch
+38.115386,-121.688712,x_274,Brannan Island State Recreation Area,Brannan Island Recreation,launch
+38.062864,-122.816921,x_275,Whitehouse Pool Park,,launch
+38.226183,-122.916469,x_276,Keys Creek Fishing Access,Keys Creek Access,launch
+37.832085,-122.539332,x_277,"Rodeo Beach, Marin Headlands",Marin Headlands,launch
+37.879792,-122.523314,x_278,"Dipsea Cafe, Mill Valley",Dipsea Cafe,destination
+37.895198,-122.49023,x_279,"Blackies Pasture, Tiburon",Blackies Pasture,launch
+38.298406,-122.283382,x_280,"3rd Street Bridge Beach, Napa",3rd St Bridge Beach,destination
+37.888713,-122.512806,x_281,"Strawberry Cove Park, Strawberry",Strawberry Cove Park,launch
+37.199835,-121.98625,x_282,"Lexington Reservoir, Los Gatos",Lexington Reservoir,launch
+37.898324,-122.357308,x_283,Brooks Island Regional Preserve,Brooks Island Preserve,destination
+38.109038,-121.499541,x_284,Tower Park Marina,,launch
+38.228245,-121.490934,x_285,New Hope Marina/ Wimpys Marina,New Hope Marina,launch
+38.026848,-121.612749,x_286,Sugar Barge Resort,,launch
+37.813178,-122.369664,x_287,"Treasure Island, Clipper Cove Beach",Clipper Cove Beach,destination
+37.662551,-122.374966,x_288,"Oyster Point Marina, Launch Ramp",Oyster Pt Marina,launch
+37.699884,-122.190956,x_289,"San Leandro Marina, informal ramp beside El Torito",San Leandro Marina,launch
+38.598199,-121.506668,x_290,"Tiscornia Park, American River Parkway",Tiscornia Park,launch
+38.600581,-121.509128,x_291,"Discovery Park, Sacramento River",Discovery Park,launch
+38.559819,-121.404589,x_292,"Howe River Access, American River Parkway",Howe River Access,launch
+38.565584,-121.384779,x_293,"Watt Avenue Access, American River Parkway",Watt Ave Access,launch
+38.63049,-121.289051,x_294,"San Juan Rapids at Rossmoor Bar, American River Parkway",San Juan Rapids,destination
+38.636379,-121.26394,x_295,"Upper Sunrise Put-in, American River Parkway",Upper Sunrise,launch
+38.632233,-121.270598,x_296,"Lower Sunrise Put-In, American River Parkway",Lower Sunrise,launch
+38.595361,-121.331212,x_297,"Riverbend Park, American River Parkway, Sacramento",Riverbend Park,launch
+38.634738,-121.217005,x_298,"Nimbus Flat, Lake Natoma",Nimbus Flat,launch
+38.648832,-121.189788,x_299,"Willow Creek, Lake Natoma",Willow Creek,launch
+39.239328,-121.260195,x_301,"Englebright Lake, Joe Miller Launch Ramp",Englebright Lake,launch
+38.935905,-121.023869,x_302,"Lake Clementine, near Auburn",Lake Clementine,launch
+38.634192,-121.233824,x_303,"Sailor Bar Park, American River Parkway, Fair Oaks",Sailor Bar Park,launch
+37.502321,-122.477474,x_304,Pillar Point Harbor Launch Ramp,Pillar Pt Harbor E,launch
+37.502799,-122.490898,x_305,"Half Moon Bay Yacht Club, Pillar Point Harbor",Half Moon Bay Yacht Club,launch
+37.225961,-122.409718,x_306,Bean Hollow State Beach,,launch
+37.754638,-122.383649,x_307,Warm Water Cove,,launch
+37.73886,-122.37379,x_308,"San Francisco, Heron's Head Park",Heron's Head Park,launch
+37.50012,-122.223455,x_311,"Blu Harbor Marina, Redwood City",Blu Harbor Marina,launch
+37.47628,-122.122,x_312,Cooley Landing Park,,launch
+37.89746,-122.641298,x_313,Stinson Beach,,launch
+36.968632,-121.903601,x_314,"Rio del Mar Beach, Aptos",Rio del Mar Beach,launch
+37.818088,-122.366178,x_315,"Treasure Island ramp, south end in Clipper Cove",Treasure Island Ramp,launch
+38.226858,-121.491187,x_316,Wimpy's,,launch
+38.024004,-121.804602,x_317,Shipwreck Beach,,destination
+38.478422,-121.542278,x_318,"Garcia Bend City Park, Sacramento",Garcia Bend Park,launch
+37.976432,-121.374929,x_319,Buckley Cove Park Launch Ramp,Buckley Cove Ramp,launch
+39.426666,-123.798586,x_320,"Basin Street Boat Launch, Noyo Harbor",Basin Street Boat Launch,launch
+37.831576,-121.311555,x_321,Dos Reis Park and Campground,Dos Reis Park,launch
+37.786932,-121.306843,x_322,Mossdale Crossing Regional Park,Mossdale Crossing Regional,launch
+37.952703,-121.306539,x_323,Morelli Park and Launch Ramp,Morelli Ramp,launch
+38.033978,-121.621392,x_324,Russo's landing,,launch
+38.011902,-121.639846,x_326,Sunset Harbor Marina,,launch
+38.0356,-121.624396,x_327,"Piper Point Marina, Bethel Island",Piper Pt Marina,launch
+37.905665,-121.587137,x_328,"Discovery Bay Marina, Discovery Bay",Discovery Bay Marina,launch
+37.837568,-121.603613,x_329,Lazy M Marina,,launch
+37.938872,-121.611773,x_330,Orwood Resort,,destination
+37.819064,-121.460388,x_331,"Tracy Oasis Marina, Tracy",Tracy Oasis Marina,launch
+38.127039,-121.580076,x_332,B & W Resort,B W Resort,launch
+38.097911,-121.568711,x_333,Korth's Pirates Lair Marina,Korth's Pirates Lair,launch
+38.10544,-121.570811,x_334,Lighthouse Marina,,launch
+38.564597,-121.517848,x_335,Miller Park Launch Ramp,Miller Park Ramp,launch
+38.384252,-121.520153,x_336,Clarksburg Launch Ramp,Clarksburg Ramp,launch
+37.97972,-121.474012,x_337,Tiki Lagoon Resort and Marina,Tiki Lagoon Marina,launch
+37.982374,-121.472989,x_338,Turner Cut Resort,,launch
+37.994597,-121.418926,x_339,Windmill Cove Resort and Marina,Windmill Cove Marina,launch
+38.046509,-121.418121,x_340,Paradise Point Marina,Paradise Pt Marina,launch
+38.214077,-121.605888,x_341,Hogback Island Access,,launch
+37.5532,-122.1576,x_342,"Wreck of the USS Thompson (""South Bay Wreck"")",USS Thompson Wreck,destination
+38.3172396,-123.0703069,x_343,Horseshoe Cove (Bodega Head),,nogo
+38.2401107,-122.995357,x_344,Tomales Point Seal pupping,,nogo
+38.2310954,-122.9947117,x_345,Bird Rock,,nogo
+38.2248164,-122.9737842,x_346,South Blue Gum Beach,,nogo
+38.1979895,-122.93439,x_347,Hog and Duck (aka piglet) Islands,,nogo
+38.1874766,-122.9319398,x_348,Pelican Point,,nogo
+38.1201132,-122.9613973,x_349,Point Reyes Beach,,nogo
+38.0854217,-122.9343779,x_350,Drakes Estero and Limantour Estero,,nogo
+38.0338562,-122.9393147,x_351,West end of Drake's Beach,,nogo
+38.0321302,-122.9265121,x_352,Limantour Spit,,nogo
+37.9994147,-122.8291204,x_353,Point Resistance Rock,,nogo
+37.9962825,-122.9780251,x_354,Chimney Rock Fish Dock,,nogo
+37.9961272,-123.0153557,x_355,Point Reyes Headland,,nogo
+37.9956949,-123.0209296,x_356,Point Reyes Light,,nogo
+37.9665487,-122.4733259,x_357,Marin Islands,,nogo
+37.9631076,-122.4348303,x_358,West Brother,,nogo
+37.9636658,-122.433119,x_359,East Brother,,nogo
+37.948495,-122.7854582,x_360,Stormy Stack,,nogo
+37.9412462,-122.4842355,x_361,San Quintin,,nogo
+37.9330644,-122.4178996,x_362,Castro Rocks,,nogo
+37.9363878,-122.4134705,x_363,Castro point pier ruins,,nogo
+37.9342123,-122.6962404,x_364,Bolinas Lagoon,,nogo
+37.9037961,-122.39171,x_365,Brooks Island,,nogo
+37.8954902,-122.490562,x_366,Richardson Bay,,nogo
+37.8329596,-122.4773098,x_367,Coast guard dock,,nogo
+37.8326511,-122.5266279,x_368,Rodeo Lagoon and inlet,,nogo
+37.8291807,-122.4245653,x_369,Alcatraz,,nogo
+37.8252217,-122.5366093,x_370,Bird Rock,,nogo
+37.8253016,-122.4787631,x_371,Golden Gate Bridge,,nogo
+37.8227589,-122.5241635,x_372,Bonita Cove,,nogo
+37.8093897,-122.4701011,x_373,Crissy Field,,nogo
+37.8135647,-122.3592085,x_374,Yerba Buena Coast Guard Station,,nogo
+37.8061554,-122.454655,x_375,Crissy Field Wildlife,,nogo
+37.7961366,-123.1180493,x_376,Farallon Islands,,nogo
+37.7912789,-122.3858867,x_377,Bay Bridge,,nogo
+37.7276852,-122.2501373,x_378,Oakland Airport,,nogo
+37.579,-122.518,x_379,Egg Rock,,nogo
+37.5675795,-122.1247517,x_380,Don Edwards Wildlife Reserve,,nogo
+37.5426914,-122.2224411,x_381,Bair Island,,nogo
+37.4933072,-122.0413271,x_383,Mowry Slough,,nogo
+37.4616931,-121.9660761,x_384,Mallard Slough aka Coyote Creek,,nogo
+37.4733454,-121.9645007,x_385,Don Edwards,,nogo
+37.1230522,-122.3389354,x_386,Año Nuevo,,nogo
+37.1106276,-122.3391265,x_387,Año Nuevo Island,,nogo
+36.9535143,-122.0801994,x_388,Wilder Beach,,nogo
+36.6224671,-121.9036294,x_389,Hopkins Marine Station,,nogo
+36.8425705,-121.7413781,x_390,Elkhorn Slough East side,,nogo
+36.823353,-121.7737519,x_391,Moss Landing Wildlife Area,,nogo
+37.98502,-122.81146,x_392,Miller's Rocks,,nogo
+38.005445,-122.462317,x_393,Rat Rock,,nogo
+36.9637766,-122.0151881,x_394,Santa Cruz swim zone,,nogo
+36.9604846,-122.0248333,x_395,Cowell Beach SUP launch,,nogo
+36.9621306,-122.0222584,x_396,Santa Cruz Wharf,,nogo
+36.9721125,-121.9492323,x_397,Capitola Beach,,nogo
+36.7474388,-121.8032675,x_398,Salinas River Wildlife Refuge,,nogo
+36.5267076,-121.931898,x_399,Point Lobos,,nogo
+37.930633,-122.4012033,x_400,Richmond Long Wharf,,nogo
+37.9537824,-122.4191738,x_401,Point Molate to Point Orient,,nogo
+37.491389,-122.508333,x_402,Mavericks,,destination

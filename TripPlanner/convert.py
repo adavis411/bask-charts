@@ -6,7 +6,7 @@ cols = ["latitude", "longitude", "sid", "title", "chart_title", "type"]
 rows = []
   
 # Parsing the XML file
-xmlparse = Xet.parse('datapoints.xml')
+xmlparse = Xet.parse('datapoints-0710.xml')
 root = xmlparse.getroot()
 for i in root:
     t = i.attrib["station_type"]
@@ -23,8 +23,8 @@ for i in root:
     else:
         sid = ""
 
-    if "chart-title" in i.attrib:
-        chart_title = i.attrib["chart-title"]
+    if "chart_title" in i.attrib:
+        chart_title = i.attrib["chart_title"]
     else:
         chart_title = ""
 
@@ -38,4 +38,4 @@ for i in root:
 df = pd.DataFrame(rows, columns=cols)
   
 # Writing dataframe to csv
-df.to_csv('datapoints.csv', index=False)
+df.to_csv('datapoints-0710.csv', index=False)
