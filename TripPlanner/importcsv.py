@@ -4,8 +4,8 @@
 #    python3 importcsv.py INPUT_FILENAME OUTPUT_FILENAME [JOIN_FILENAME]
 #
 # where INPUT_FILENAME is a CSV, OUTPUT_FILENAME is a GeoJSON output file,
-# and JOIN_FILENAME is a prior version of the output file containing label_x and label_y
-# coordinates to be preserved.
+# and JOIN_FILENAME is a prior version of the GeoJSON output file containing label_x, label_y and label_callout
+# attributes to be preserved.
 
 import sys
 import pandas as pd
@@ -26,16 +26,30 @@ dfgeom = [Point(xy) for xy in zip(df.longitude, df.latitude)]  # list of geometr
 # convert all of the above to a GeoDataFrame
 gdfin = gpd.GeoDataFrame(dfd, crs='epsg:4326', geometry=dfgeom)
 
+schema = {
+    'geometry': 'Point',
+    'properties': {
+        'sid': 'str',
+        'title': 'str',
+        'chart_title': 'str',
+        'type': 'str',
+        'label_x': 'float',
+        'label_y': 'float',
+        'label_callout': 'bool'
+    }
+}
+
 if len(sys.argv) - 1 < 3:
     # we are not joining with existing data, so add dummy label_x and label_y columns
     gdfin.insert(len(gdfin.columns),'label_x',float('NaN'))
     gdfin.insert(len(gdfin.columns),'label_y',float('NaN'))
+    gdfin.insert(len(gdfin.columns),'label_callout',False)
     gdfout = gdfin
 else:
     # join to an existing dataset with label_x and label_y attributes that are to be preserved
-    gdfjoin = gpd.read_file(sys.argv[3])
-    gdflabelxy = pd.DataFrame(gdfjoin,columns=['sid','label_x','label_y']).set_index('sid')
+    gdfjoin = gpd.read_file(sys.argv[3], schema=schema)
+    gdflabelxy = pd.DataFrame(gdfjoin,columns=['sid','label_x','label_y','label_callout']).set_index('sid')
     gdfout = gdfin.join(gdflabelxy, on='sid', how='left')
 
 # write the output file
-gdfout.to_file(sys.argv[2],crs='EPSG:4326')
+gdfout.to_file(sys.argv[2],crs='EPSG:4326',schema=schema)

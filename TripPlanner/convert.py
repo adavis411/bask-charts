@@ -1,4 +1,11 @@
-# Importing the required libraries
+# Import an XML dataset of TripPlanner features and convert to a CSV file readable by QGIS or by the importcsv.py script.
+#
+# usage:
+#    python3 convert.py INPUT_XML OUTPUT_CSV
+#
+# where INPUT_XML as a TripPlanner XML filename and OUTPUT_CSV is the name of a CSV output file.
+
+import sys
 import xml.etree.ElementTree as Xet
 import pandas as pd
   
@@ -6,7 +13,7 @@ cols = ["latitude", "longitude", "sid", "title", "chart_title", "type"]
 rows = []
   
 # Parsing the XML file
-xmlparse = Xet.parse('datapoints-0710.xml')
+xmlparse = Xet.parse(sys.argv[1])
 root = xmlparse.getroot()
 for i in root:
     t = i.attrib["station_type"]
@@ -38,4 +45,4 @@ for i in root:
 df = pd.DataFrame(rows, columns=cols)
   
 # Writing dataframe to csv
-df.to_csv('datapoints-0710.csv', index=False)
+df.to_csv(sys.argv[2], index=False)
