@@ -1,5 +1,6 @@
 {
 "type": "FeatureCollection",
+"name": "datapoint-labels",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "sid": "c_1", "title": "San Francisco Bay entrance (outside) (depth 19 ft), California Current", "chart_title": null, "type": "current", "label_x": null, "label_y": null, "label_callout": null }, "geometry": { "type": "Point", "coordinates": [ -122.502, 37.8106 ] } },
@@ -923,7 +924,7 @@
 { "type": "Feature", "properties": { "sid": "x_5", "title": "Brandon, Oregon", "chart_title": "Brandon", "type": "launch", "label_x": null, "label_y": null, "label_callout": null }, "geometry": { "type": "Point", "coordinates": [ -124.4015083, 43.148475 ] } },
 { "type": "Feature", "properties": { "sid": "x_6", "title": "North Bend, Oregon", "chart_title": "North Bend", "type": "launch", "label_x": null, "label_y": null, "label_callout": null }, "geometry": { "type": "Point", "coordinates": [ -124.2797722, 43.4157333 ] } },
 { "type": "Feature", "properties": { "sid": "x_7", "title": "Myrtle Creek", "chart_title": null, "type": "launch", "label_x": null, "label_y": null, "label_callout": null }, "geometry": { "type": "Point", "coordinates": [ -124.054516, 41.80197 ] } },
-{ "type": "Feature", "properties": { "sid": "x_8", "title": "Swede’s Beach", "chart_title": null, "type": "destination", "label_x": -122.49394064642235, "label_y": 37.847224879708001, "label_callout": null }, "geometry": { "type": "Point", "coordinates": [ -122.48, 37.848056 ] } },
+{ "type": "Feature", "properties": { "sid": "x_8", "title": "Swede’s Beach", "chart_title": null, "type": "destination", "label_x": -122.49290299584894, "label_y": 37.847341933947504, "label_callout": true }, "geometry": { "type": "Point", "coordinates": [ -122.48, 37.848056 ] } },
 { "type": "Feature", "properties": { "sid": "x_9", "title": "Bar Bocce", "chart_title": null, "type": "destination", "label_x": -122.48734005425884, "label_y": 37.85584330174931, "label_callout": true }, "geometry": { "type": "Point", "coordinates": [ -122.484722, 37.859722 ] } },
 { "type": "Feature", "properties": { "sid": "x_10", "title": "Turney Street Public Boat Ramp", "chart_title": "Turney St", "type": "launch", "label_x": -122.49325801338058, "label_y": 37.857464892109284, "label_callout": true }, "geometry": { "type": "Point", "coordinates": [ -122.485472, 37.86 ] } },
 { "type": "Feature", "properties": { "sid": "x_11", "title": "Bayfront Park, Mill Valley (AKA Dog Park)", "chart_title": "Bayfront Park", "type": "launch", "label_x": null, "label_y": null, "label_callout": null }, "geometry": { "type": "Point", "coordinates": [ -122.525306, 37.896806 ] } },
